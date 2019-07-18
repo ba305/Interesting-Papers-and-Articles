@@ -50,6 +50,10 @@ A list of some of my favorite papers and articles.
 - NASNet [article](https://ai.googleblog.com/2017/11/automl-for-large-scale-image.html) and [paper](https://arxiv.org/abs/1707.07012)
 - [ENAS](https://arxiv.org/abs/1802.03268)
 
+## Semi-supervised and Unsupervised learning
+- [MixMatch](https://arxiv.org/abs/1905.02249)
+- [Unsupervised Data Augmentation](https://arxiv.org/abs/1904.12848)
+
 ## Other interesting techniques
 - [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
 - [Curriculum Learning](https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf)
@@ -62,6 +66,7 @@ A list of some of my favorite papers and articles.
 ## Interesting applications
 - Translating Long-Lost Languages [(article)](https://www.technologyreview.com/s/613899/machine-learning-has-been-used-to-automatically-translate-long-lost-languages/) and [paper](https://arxiv.org/abs/1906.06718)
 - Identifying crop lodging [article](https://arxiv.org/abs/1906.07771)
+- Pluribus (Poker) [article](https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/)
 
 ## General AI topics
 - [State of AI (Nathan Benaich)](https://www.stateof.ai/)
