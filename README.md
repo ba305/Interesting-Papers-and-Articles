@@ -32,6 +32,7 @@ A list of some of my favorite papers and articles.
 - BERT [article](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) and [paper](https://arxiv.org/abs/1810.04805)
 - [ULMFiT](https://arxiv.org/abs/1801.06146)
 - [GPT-2](https://openai.com/blog/better-language-models/)
+- [List of important NLP papers](https://github.com/mihail911/nlp-library)
 
 ## Model training (deep learning)
 - [A Recipe for Training Neural Networks (Andrej Karpathy)](http://karpathy.github.io/2019/04/25/recipe/)
