@@ -58,6 +58,7 @@ A list of some of my favorite papers and articles.
 - [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
 - [Curriculum Learning](https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf)
 - [Visualizing CNNs](https://arxiv.org/abs/1311.2901)
+- [Grad-CAM](https://arxiv.org/abs/1610.02391)
 - [Fooling CNNs](https://arxiv.org/abs/1412.1897)
 - [Deep Compression](https://arxiv.org/abs/1510.00149)
 - [XNOR-Net](https://arxiv.org/abs/1603.05279)
