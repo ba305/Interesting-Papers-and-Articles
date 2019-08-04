@@ -59,6 +59,8 @@ A list of some of my favorite papers and articles.
 - [Curriculum Learning](https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf)
 - [Visualizing CNNs](https://arxiv.org/abs/1311.2901)
 - [Fooling CNNs](https://arxiv.org/abs/1412.1897)
+- [Deep Compression](https://arxiv.org/abs/1510.00149)
+- [XNOR-Net](https://arxiv.org/abs/1603.05279)
 
 ## Reinforcement Learning
 - [AlphaStar](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
