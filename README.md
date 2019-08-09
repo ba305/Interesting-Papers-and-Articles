@@ -13,7 +13,7 @@ A list of some of my favorite papers and articles.
 
 ## Object detection
 - [Faster R-CNN](https://arxiv.org/abs/1506.01497)
-- [YOLO](https://arxiv.org/abs/1506.02640)
+- [YOLO](https://arxiv.org/abs/1506.02640), [YOLOv2](https://arxiv.org/abs/1612.08242), [YOLOv3](https://arxiv.org/abs/1804.02767)
 - [Feature Pyramid Networks](https://arxiv.org/abs/1612.03144)
 - [RetinaNet](https://arxiv.org/abs/1708.02002)
 
@@ -33,6 +33,7 @@ A list of some of my favorite papers and articles.
 - [ULMFiT](https://arxiv.org/abs/1801.06146)
 - [GPT-2](https://openai.com/blog/better-language-models/)
 - [List of important NLP papers](https://github.com/mihail911/nlp-library)
+- [XLNet](https://arxiv.org/abs/1906.08237)
 
 ## Model training (deep learning)
 - [A Recipe for Training Neural Networks (Andrej Karpathy)](http://karpathy.github.io/2019/04/25/recipe/)
@@ -65,6 +66,17 @@ A list of some of my favorite papers and articles.
 
 ## Reinforcement Learning
 - [AlphaStar](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
+- [Sutton](http://incompleteideas.net/book/RLbook2018.pdf)
+
+## Books available for free online
+- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+- [The 100 page machine learning book](https://github.com/ZakiaSalod/The-Hundred-Page-Machine-Learning-Book)
+- [Python Machine Learning, Sebastian Raschka](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
+- [Mining of Massive Datasets](http://www.mmds.org/)
+- [Deep Learning](http://www.deeplearningbook.org/)
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+- [Think Bayes](https://greenteapress.com/wp/think-bayes/)
+- [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 
 ## Interesting applications
 - Translating Long-Lost Languages [(article)](https://www.technologyreview.com/s/613899/machine-learning-has-been-used-to-automatically-translate-long-lost-languages/) and [paper](https://arxiv.org/abs/1906.06718)
