@@ -34,6 +34,7 @@ A list of some of my favorite papers and articles.
 - [GPT-2](https://openai.com/blog/better-language-models/)
 - [List of important NLP papers](https://github.com/mihail911/nlp-library)
 - [XLNet](https://arxiv.org/abs/1906.08237)
+- [ERNIE 2.0](https://arxiv.org/abs/1907.12412)
 
 ## Model training (deep learning)
 - [A Recipe for Training Neural Networks (Andrej Karpathy)](http://karpathy.github.io/2019/04/25/recipe/)
