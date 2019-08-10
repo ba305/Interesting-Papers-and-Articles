@@ -25,8 +25,13 @@ A list of some of my favorite papers and articles.
 
 ## Special topics in CV
 - [OpenPose](https://arxiv.org/abs/1812.08008)
-- [FaceNet](https://arxiv.org/abs/1503.03832)
 - [CycleGAN](https://arxiv.org/abs/1703.10593)
+- [Polygon-RNN++](http://www.cs.toronto.edu/polyrnn/) and [paper](https://arxiv.org/abs/1803.09693)
+- [Super SloMo](https://arxiv.org/abs/1712.00080)
+- [Soccer on Your Tabletop](https://arxiv.org/abs/1806.00890)
+- [FaceNet](https://arxiv.org/abs/1503.03832)
+- [LayoutNet](https://arxiv.org/abs/1803.08999)
+- [DeepPerimeter](https://arxiv.org/abs/1904.11595)
 
 ## NLP
 - [Transformers](https://arxiv.org/abs/1706.03762)
