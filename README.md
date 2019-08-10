@@ -26,6 +26,7 @@ A list of some of my favorite papers and articles.
 ## Special topics in CV
 - [OpenPose](https://arxiv.org/abs/1812.08008)
 - [FaceNet](https://arxiv.org/abs/1503.03832)
+- [CycleGAN](https://arxiv.org/abs/1703.10593)
 
 ## NLP
 - [Transformers](https://arxiv.org/abs/1706.03762)
