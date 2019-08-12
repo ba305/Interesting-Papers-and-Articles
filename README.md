@@ -83,6 +83,7 @@ A list of some of my favorite papers and articles.
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 - [Think Bayes](https://greenteapress.com/wp/think-bayes/)
 - [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+- [Reinforcement Learning](http://incompleteideas.net/book/RLbook2018.pdf)
 
 ## Interesting applications
 - Translating Long-Lost Languages [(article)](https://www.technologyreview.com/s/613899/machine-learning-has-been-used-to-automatically-translate-long-lost-languages/) and [paper](https://arxiv.org/abs/1906.06718)
