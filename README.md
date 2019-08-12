@@ -89,6 +89,7 @@ A list of some of my favorite papers and articles.
 - Translating Long-Lost Languages [(article)](https://www.technologyreview.com/s/613899/machine-learning-has-been-used-to-automatically-translate-long-lost-languages/) and [paper](https://arxiv.org/abs/1906.06718)
 - Identifying crop lodging [article](https://arxiv.org/abs/1906.07771)
 - Pluribus (Poker) [article](https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/)
+- [Evolutionary selection for self-driving cars](https://deepmind.com/blog/article/how-evolutionary-selection-can-train-more-capable-self-driving-cars)
 
 ## General AI topics
 - [State of AI (Nathan Benaich)](https://www.stateof.ai/)
