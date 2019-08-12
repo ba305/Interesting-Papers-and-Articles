@@ -11,13 +11,11 @@ A list of some of my favorite papers and articles.
 - [SqueezeNet](https://arxiv.org/abs/1602.07360)
 - [GANs](https://arxiv.org/abs/1406.2661)
 
-## Object detection
+## Object detection / semantic segmentation
 - [Faster R-CNN](https://arxiv.org/abs/1506.01497)
 - [YOLO](https://arxiv.org/abs/1506.02640), [YOLOv2](https://arxiv.org/abs/1612.08242), [YOLOv3](https://arxiv.org/abs/1804.02767)
 - [Feature Pyramid Networks](https://arxiv.org/abs/1612.03144)
 - [RetinaNet](https://arxiv.org/abs/1708.02002)
-
-## Semantic segmentation
 - [U-Net](https://arxiv.org/abs/1505.04597)
 - [Fully Convolutional Networks](https://arxiv.org/abs/1411.4038)
 - [DeepLabv3](https://arxiv.org/abs/1706.05587)
@@ -70,6 +68,7 @@ A list of some of my favorite papers and articles.
 - [Fooling CNNs](https://arxiv.org/abs/1412.1897)
 - [Deep Compression](https://arxiv.org/abs/1510.00149)
 - [XNOR-Net](https://arxiv.org/abs/1603.05279)
+- [Data Echoing](https://arxiv.org/abs/1907.05550)
 
 ## Reinforcement Learning
 - [AlphaStar](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
