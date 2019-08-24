@@ -46,11 +46,12 @@ A list of some of my favorite papers and articles.
 - [Optimizing Gradient Descent (Sebastian Ruder)](http://ruder.io/optimizing-gradient-descent/)
 - [More on Optimizing Gradient Descent (Sebastian Ruder)](http://ruder.io/deep-learning-optimization-2017/)
 - [Cyclical Learning Rates (Leslie Smith)](https://arxiv.org/abs/1506.01186)
+- [Adam optimizer](https://arxiv.org/abs/1412.6980)
+- [RAdam optimizer](https://arxiv.org/abs/1908.03265v1)
 - [Hyperparameters (Leslie Smith)](https://arxiv.org/abs/1803.09820)
 - [Super-Convergence (Leslie Smith)](https://arxiv.org/abs/1708.07120)
 - [BatchNorm](https://arxiv.org/abs/1502.03167)
 - [Dropout](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
-- [Adam optimizer](https://arxiv.org/abs/1412.6980)
 
 ## "AutoML"-ish ideas
 - NASNet [article](https://ai.googleblog.com/2017/11/automl-for-large-scale-image.html) and [paper](https://arxiv.org/abs/1707.07012)
