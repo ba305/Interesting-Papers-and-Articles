@@ -30,6 +30,7 @@ A list of some of my favorite papers and articles.
 - [FaceNet](https://arxiv.org/abs/1503.03832)
 - [LayoutNet](https://arxiv.org/abs/1803.08999)
 - [DeepPerimeter](https://arxiv.org/abs/1904.11595)
+- [StyleGAN](https://arxiv.org/abs/1812.04948)
 
 ## NLP
 - [Transformers](https://arxiv.org/abs/1706.03762)
