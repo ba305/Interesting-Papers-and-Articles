@@ -97,3 +97,4 @@ A list of some of my favorite papers and articles.
 
 ## General AI topics
 - [State of AI (Nathan Benaich)](https://www.stateof.ai/)
+- [Statistical Modeling: The Two Cultures](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726)
