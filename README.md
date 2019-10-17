@@ -56,8 +56,8 @@ A list of some of my favorite papers and articles.
 - [BatchNorm](https://arxiv.org/abs/1502.03167)
 - [Dropout](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
 - Targeted dropout [Paper](https://arxiv.org/abs/1905.13678) and [website](https://for.ai/blog/targeted-dropout/)
-- Quantization [https://arxiv.org/abs/1907.05686]
-- Gate decorators for model pruning [https://arxiv.org/abs/1909.08174]
+- [Quantization](https://arxiv.org/abs/1907.05686)
+- [Gate decorators for model pruning](https://arxiv.org/abs/1909.08174)
 
 ## "AutoML"-ish ideas
 - NASNet [article](https://ai.googleblog.com/2017/11/automl-for-large-scale-image.html) and [paper](https://arxiv.org/abs/1707.07012)
