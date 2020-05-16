@@ -77,6 +77,7 @@ A list of some of my favorite papers and articles.
 - [XNOR-Net](https://arxiv.org/abs/1603.05279)
 - [Data Echoing](https://arxiv.org/abs/1907.05550)
 - [Bayesian Inference for Large Scale Image Classification](https://arxiv.org/abs/1908.03491)
+- [MaskedNet (protecting from Differential Power Analysis attacks](https://arxiv.org/abs/1910.13063)
 
 ## Reinforcement Learning
 - [AlphaStar](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
