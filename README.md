@@ -79,6 +79,7 @@ A list of some of my favorite papers and articles.
 - [Bayesian Inference for Large Scale Image Classification](https://arxiv.org/abs/1908.03491)
 - [MaskedNet (protecting from Differential Power Analysis attacks](https://arxiv.org/abs/1910.13063)
 - [Visualizing the Loss Landscape of Neural Nets (skip connections)](https://arxiv.org/abs/1712.09913)
+- [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155)
 
 ## Reinforcement Learning
 - [AlphaStar](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
