@@ -63,6 +63,7 @@ A list of some of my favorite papers and articles.
 - Targeted dropout [Paper](https://arxiv.org/abs/1905.13678) and [website](https://for.ai/blog/targeted-dropout/)
 - [Quantization](https://arxiv.org/abs/1907.05686)
 - [Gate decorators for model pruning](https://arxiv.org/abs/1909.08174)
+- [ZeRO-2 & DeepSpeed: Shattering barriers of deep learning speed & scale](https://www.microsoft.com/en-us/research/blog/zero-2-deepspeed-shattering-barriers-of-deep-learning-speed-scale/)
 
 ## "AutoML"-ish ideas
 - NASNet [article](https://ai.googleblog.com/2017/11/automl-for-large-scale-image.html) and [paper](https://arxiv.org/abs/1707.07012)
@@ -87,6 +88,9 @@ A list of some of my favorite papers and articles.
 - [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155)
 - [When Does Label Smoothing Help?](https://arxiv.org/abs/1906.02629v2)
 - [Machine Learning on Graphs: A Model and Comprehensive Taxonomy](https://arxiv.org/abs/2005.03675)
+- [Federated Learning](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
+- [Generative Models for Effective ML on Private, Decentralized Datasets](https://iclr.cc/virtual_2020/poster_SJgaRA4FPH.html)
+
 
 ## Reinforcement Learning
 - [AlphaStar](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
