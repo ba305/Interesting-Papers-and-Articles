@@ -90,6 +90,7 @@ A list of some of my favorite papers and articles.
 ## Reinforcement Learning
 - [AlphaStar](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
 - [Sutton](http://incompleteideas.net/book/RLbook2018.pdf)
+- Unsupervised Meta-Learning for Reinforcement Learning [paper](https://arxiv.org/abs/1806.04640) and [blog post](https://blog.ml.cmu.edu/2020/05/01/unsupervised-meta-learning:-learning-to-learn-without-supervision/)
 
 ## Books available for free online
 - [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
