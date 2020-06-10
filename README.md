@@ -32,6 +32,8 @@ A list of some of my favorite papers and articles.
 - [LayoutNet](https://arxiv.org/abs/1803.08999)
 - [DeepPerimeter](https://arxiv.org/abs/1904.11595)
 - [StyleGAN](https://arxiv.org/abs/1812.04948)
+- EfficientNet [paper](https://arxiv.org/abs/1905.11946) and [blog post](https://ai.googleblog.com/2019/05/efficientnet-improving-accuracy-and.html)
+- EfficientDet [paper](https://arxiv.org/abs/1911.09070) and [blog post](https://ai.googleblog.com/2020/04/efficientdet-towards-scalable-and.html)
 
 ## NLP
 - [Transformers](https://arxiv.org/abs/1706.03762)
