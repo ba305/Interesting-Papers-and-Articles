@@ -114,3 +114,4 @@ A list of some of my favorite papers and articles.
 - [State of AI (Nathan Benaich)](https://www.stateof.ai/)
 - [Statistical Modeling: The Two Cultures](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726)
 - [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547)
+- [Why We Need DevOps for ML Data](https://tecton.ai/blog/devops-ml-data/)
