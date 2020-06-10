@@ -14,6 +14,7 @@ A list of some of my favorite papers and articles.
 ## Object detection / semantic segmentation
 - [Faster R-CNN](https://arxiv.org/abs/1506.01497)
 - [YOLO](https://arxiv.org/abs/1506.02640), [YOLOv2](https://arxiv.org/abs/1612.08242), [YOLOv3](https://arxiv.org/abs/1804.02767)
+- [YOLOv4](https://arxiv.org/abs/2004.10934)
 - [Feature Pyramid Networks](https://arxiv.org/abs/1612.03144)
 - [RetinaNet](https://arxiv.org/abs/1708.02002)
 - [U-Net](https://arxiv.org/abs/1505.04597)
