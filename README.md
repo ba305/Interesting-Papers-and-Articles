@@ -86,6 +86,7 @@ A list of some of my favorite papers and articles.
 - [Visualizing the Loss Landscape of Neural Nets (skip connections)](https://arxiv.org/abs/1712.09913)
 - [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155)
 - [When Does Label Smoothing Help?](https://arxiv.org/abs/1906.02629v2)
+- [Machine Learning on Graphs: A Model and Comprehensive Taxonomy](https://arxiv.org/abs/2005.03675)
 
 ## Reinforcement Learning
 - [AlphaStar](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
