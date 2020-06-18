@@ -26,6 +26,7 @@ A list of some of my favorite papers and articles.
 - [OpenPose](https://arxiv.org/abs/1812.08008)
 - [A Simple yet Effective Baseline for 3D Human Pose Estimation](http://openaccess.thecvf.com/content_iccv_2017/html/Martinez_A_Simple_yet_ICCV_2017_paper.html)
 - [CycleGAN](https://arxiv.org/abs/1703.10593)
+- [Pix2Pix](https://arxiv.org/abs/1611.07004)
 - [Polygon-RNN++](http://www.cs.toronto.edu/polyrnn/) and [paper](https://arxiv.org/abs/1803.09693)
 - [Super SloMo](https://arxiv.org/abs/1712.00080)
 - [Soccer on Your Tabletop](https://arxiv.org/abs/1806.00890)
@@ -33,10 +34,12 @@ A list of some of my favorite papers and articles.
 - [LayoutNet](https://arxiv.org/abs/1803.08999)
 - [DeepPerimeter](https://arxiv.org/abs/1904.11595)
 - [StyleGAN](https://arxiv.org/abs/1812.04948)
+- [Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/abs/1812.01187)
 - EfficientNet [paper](https://arxiv.org/abs/1905.11946) and [blog post](https://ai.googleblog.com/2019/05/efficientnet-improving-accuracy-and.html)
 - EfficientDet [paper](https://arxiv.org/abs/1911.09070) and [blog post](https://ai.googleblog.com/2020/04/efficientdet-towards-scalable-and.html)
 - [Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet](https://arxiv.org/abs/1904.00760)
 - [pySLAM](https://github.com/luigifreda/pyslam)
+- [BatchNorm Only](https://arxiv.org/abs/2003.00152)
 
 ## NLP
 - [Transformers](https://arxiv.org/abs/1706.03762)
@@ -64,6 +67,7 @@ A list of some of my favorite papers and articles.
 - [Cyclical Learning Rates (Leslie Smith)](https://arxiv.org/abs/1506.01186)
 - [Adam optimizer](https://arxiv.org/abs/1412.6980)
 - [RAdam optimizer](https://arxiv.org/abs/1908.03265v1)
+- [Nesterov Momentum[(http://cs229.stanford.edu/proj2015/054_report.pdf)
 - [Hyperparameters (Leslie Smith)](https://arxiv.org/abs/1803.09820)
 - [Super-Convergence (Leslie Smith)](https://arxiv.org/abs/1708.07120)
 - [BatchNorm](https://arxiv.org/abs/1502.03167)
@@ -73,6 +77,7 @@ A list of some of my favorite papers and articles.
 - [Gate decorators for model pruning](https://arxiv.org/abs/1909.08174)
 - [ZeRO-2 & DeepSpeed: Shattering barriers of deep learning speed & scale](https://www.microsoft.com/en-us/research/blog/zero-2-deepspeed-shattering-barriers-of-deep-learning-speed-scale/)
 - [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
+- [All you need is a good init](https://arxiv.org/abs/1511.06422)
 
 ## "AutoML"-ish ideas
 - NASNet [article](https://ai.googleblog.com/2017/11/automl-for-large-scale-image.html) and [paper](https://arxiv.org/abs/1707.07012)
@@ -100,6 +105,9 @@ A list of some of my favorite papers and articles.
 - [Federated Learning](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
 - [Generative Models for Effective ML on Private, Decentralized Datasets](https://iclr.cc/virtual_2020/poster_SJgaRA4FPH.html)
 - [Self-Attention Generative Adversarial Networks](https://arxiv.org/abs/1805.08318)
+- [Self-Normalizing Neural Networks](https://arxiv.org/abs/1706.02515)
+- [Capsule Networks](https://arxiv.org/abs/1710.09829)
+- [Graph Networks](https://arxiv.org/abs/1806.01261)
 
 
 ## Reinforcement Learning
