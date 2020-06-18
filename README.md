@@ -24,6 +24,7 @@ A list of some of my favorite papers and articles.
 
 ## Special topics in CV
 - [OpenPose](https://arxiv.org/abs/1812.08008)
+- [A Simple yet Effective Baseline for 3D Human Pose Estimation](http://openaccess.thecvf.com/content_iccv_2017/html/Martinez_A_Simple_yet_ICCV_2017_paper.html)
 - [CycleGAN](https://arxiv.org/abs/1703.10593)
 - [Polygon-RNN++](http://www.cs.toronto.edu/polyrnn/) and [paper](https://arxiv.org/abs/1803.09693)
 - [Super SloMo](https://arxiv.org/abs/1712.00080)
@@ -34,6 +35,7 @@ A list of some of my favorite papers and articles.
 - [StyleGAN](https://arxiv.org/abs/1812.04948)
 - EfficientNet [paper](https://arxiv.org/abs/1905.11946) and [blog post](https://ai.googleblog.com/2019/05/efficientnet-improving-accuracy-and.html)
 - EfficientDet [paper](https://arxiv.org/abs/1911.09070) and [blog post](https://ai.googleblog.com/2020/04/efficientdet-towards-scalable-and.html)
+- [Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet](https://arxiv.org/abs/1904.00760)
 - [pySLAM](https://github.com/luigifreda/pyslam)
 
 ## NLP
@@ -50,6 +52,9 @@ A list of some of my favorite papers and articles.
 - [WT5?! Training Text-to-Text Models to Explain their Predictions](https://arxiv.org/abs/2004.14546)
 - [ICLR 2020 Papers, curated by HuggingFace](https://docs.google.com/document/d/17pnPvWglcerkjFLOn-3Y1lB4MQMO-eVlPXjJUKl8XDw/mobilebasic)
 - [The Cost of Training NLP Models: A Concise Overview](https://arxiv.org/abs/2004.08900)
+- [Single Headed Attention RNN](https://arxiv.org/abs/1911.11423)
+- Reformer: The Efficient Transformer [blog](https://ai.googleblog.com/2020/01/reformer-efficient-transformer.html) and [paper](https://arxiv.org/abs/2001.04451)
+
 
 ## Model training (deep learning)
 - [A Recipe for Training Neural Networks (Andrej Karpathy)](http://karpathy.github.io/2019/04/25/recipe/)
@@ -67,6 +72,7 @@ A list of some of my favorite papers and articles.
 - [Quantization](https://arxiv.org/abs/1907.05686)
 - [Gate decorators for model pruning](https://arxiv.org/abs/1909.08174)
 - [ZeRO-2 & DeepSpeed: Shattering barriers of deep learning speed & scale](https://www.microsoft.com/en-us/research/blog/zero-2-deepspeed-shattering-barriers-of-deep-learning-speed-scale/)
+- [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
 
 ## "AutoML"-ish ideas
 - NASNet [article](https://ai.googleblog.com/2017/11/automl-for-large-scale-image.html) and [paper](https://arxiv.org/abs/1707.07012)
@@ -93,6 +99,7 @@ A list of some of my favorite papers and articles.
 - [Machine Learning on Graphs: A Model and Comprehensive Taxonomy](https://arxiv.org/abs/2005.03675)
 - [Federated Learning](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
 - [Generative Models for Effective ML on Private, Decentralized Datasets](https://iclr.cc/virtual_2020/poster_SJgaRA4FPH.html)
+- [Self-Attention Generative Adversarial Networks](https://arxiv.org/abs/1805.08318)
 
 
 ## Reinforcement Learning
