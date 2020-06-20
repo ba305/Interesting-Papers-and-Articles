@@ -83,6 +83,7 @@ A list of some of my favorite papers and articles.
 - [Kaiming initialization, and PReLU](https://arxiv.org/abs/1502.01852)
 - [MixUp Data Augmentation](https://arxiv.org/abs/1710.09412)
 - [CutMix Data Augmentation](https://arxiv.org/abs/1905.04899)
+- [Pooling is neither necessary nor sufficient for appropriate deformation stability in CNNs](https://arxiv.org/abs/1804.04438)
 
 ## "AutoML"-ish ideas
 - NASNet [article](https://ai.googleblog.com/2017/11/automl-for-large-scale-image.html) and [paper](https://arxiv.org/abs/1707.07012)
@@ -113,6 +114,7 @@ A list of some of my favorite papers and articles.
 - [Self-Normalizing Neural Networks](https://arxiv.org/abs/1706.02515)
 - [Capsule Networks](https://arxiv.org/abs/1710.09829)
 - [Graph Networks](https://arxiv.org/abs/1806.01261)
+- [Learning From Brains How to Regularize Machines](https://arxiv.org/abs/1911.05072)
 
 
 ## Reinforcement Learning
