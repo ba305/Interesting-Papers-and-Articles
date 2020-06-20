@@ -81,6 +81,8 @@ A list of some of my favorite papers and articles.
 - [Fixup Initialization: Residual Learning Without Normalization](https://arxiv.org/abs/1901.09321)
 - [Xavier initialization](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
 - [Kaiming initialization, and PReLU](https://arxiv.org/abs/1502.01852)
+- [MixUp Data Augmentation](https://arxiv.org/abs/1710.09412)
+- [CutMix Data Augmentation](https://arxiv.org/abs/1905.04899)
 
 ## "AutoML"-ish ideas
 - NASNet [article](https://ai.googleblog.com/2017/11/automl-for-large-scale-image.html) and [paper](https://arxiv.org/abs/1707.07012)
