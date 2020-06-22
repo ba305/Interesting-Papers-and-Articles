@@ -115,6 +115,7 @@ A list of some of my favorite papers and articles.
 - [Capsule Networks](https://arxiv.org/abs/1710.09829)
 - [Graph Networks](https://arxiv.org/abs/1806.01261)
 - [Learning From Brains How to Regularize Machines](https://arxiv.org/abs/1911.05072)
+- POET [post](https://eng.uber.com/poet-open-ended-deep-learning/) and [paper](https://arxiv.org/abs/1901.01753), Enhanced POET [post](https://eng.uber.com/enhanced-poet-machine-learning/) and [paper](https://arxiv.org/abs/2003.08536)
 
 
 ## Reinforcement Learning
