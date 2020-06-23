@@ -93,6 +93,7 @@ A list of some of my favorite papers and articles.
 ## Semi-supervised and Unsupervised learning
 - [MixMatch](https://arxiv.org/abs/1905.02249)
 - [Unsupervised Data Augmentation](https://arxiv.org/abs/1904.12848)
+- [Deep InfoMax](https://arxiv.org/abs/1808.06670)
 
 ## Other interesting techniques
 - [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
@@ -119,7 +120,6 @@ A list of some of my favorite papers and articles.
 - POET [post](https://eng.uber.com/poet-open-ended-deep-learning/) and [paper](https://arxiv.org/abs/1901.01753), Enhanced POET [post](https://eng.uber.com/enhanced-poet-machine-learning/) and [paper](https://arxiv.org/abs/2003.08536)
 - Double Descent [post](https://openai.com/blog/deep-double-descent/) and [paper](https://arxiv.org/abs/1912.02292)
 - [Train Large, Then Compress: Rethinking Model Size for Efficient Training and Inference of Transformers](https://arxiv.org/abs/2002.11794)
- - [Deep InfoMax](https://arxiv.org/abs/1808.06670)
 
 
 ## Reinforcement Learning
