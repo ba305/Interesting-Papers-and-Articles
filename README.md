@@ -85,6 +85,8 @@ A list of some of my favorite papers and articles.
 - [MixUp Data Augmentation](https://arxiv.org/abs/1710.09412)
 - [CutMix Data Augmentation](https://arxiv.org/abs/1905.04899)
 - [Pooling is neither necessary nor sufficient for appropriate deformation stability in CNNs](https://arxiv.org/abs/1804.04438)
+- [Decoupled Weight Decay Regularization](https://arxiv.org/abs/1711.05101)
+- [Averaging Weights Leads to Wider Optima and Better Generalization](https://arxiv.org/abs/1803.05407)
 
 ## "AutoML"-ish ideas
 - NASNet [article](https://ai.googleblog.com/2017/11/automl-for-large-scale-image.html) and [paper](https://arxiv.org/abs/1707.07012)
