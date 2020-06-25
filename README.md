@@ -154,6 +154,7 @@ A list of some of my favorite papers and articles.
 - Identifying crop lodging [article](https://arxiv.org/abs/1906.07771)
 - Pluribus (Poker) [article](https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/)
 - [Evolutionary selection for self-driving cars](https://deepmind.com/blog/article/how-evolutionary-selection-can-train-more-capable-self-driving-cars)
+- [MuZero](https://arxiv.org/abs/1911.08265)
 
 ## General AI topics
 - [State of AI (Nathan Benaich)](https://www.stateof.ai/)
