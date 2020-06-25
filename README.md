@@ -88,7 +88,7 @@ A list of some of my favorite papers and articles.
 - [AutoAugment: Learning Augmentation Policies from Data](https://arxiv.org/abs/1805.09501)
 - [RandAugment: Practical automated data augmentation with a reduced search space](https://arxiv.org/abs/1909.13719)
 - [Population Based Augmentation: Efficient Learning of Augmentation Policy Schedules](https://arxiv.org/abs/1905.05393)
-- [SimCLR:A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
+- [SimCLR: A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
 - [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
 - [Pooling is neither necessary nor sufficient for appropriate deformation stability in CNNs](https://arxiv.org/abs/1804.04438)
 - [Decoupled Weight Decay Regularization](https://arxiv.org/abs/1711.05101)
