@@ -42,6 +42,8 @@ A list of some of my favorite papers and articles.
 - [BatchNorm Only](https://arxiv.org/abs/2003.00152)
 
 ## NLP
+- [Word2Vec](https://arxiv.org/abs/1301.3781)
+- [GloVe](https://nlp.stanford.edu/pubs/glove.pdf)
 - [Transformers](https://arxiv.org/abs/1706.03762)
 - BERT [article](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) and [paper](https://arxiv.org/abs/1810.04805)
 - [ULMFiT](https://arxiv.org/abs/1801.06146)
