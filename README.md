@@ -59,6 +59,7 @@ A list of some of my favorite papers and articles.
 - [The Cost of Training NLP Models: A Concise Overview](https://arxiv.org/abs/2004.08900)
 - [Single Headed Attention RNN](https://arxiv.org/abs/1911.11423)
 - Reformer: The Efficient Transformer [blog](https://ai.googleblog.com/2020/01/reformer-efficient-transformer.html) and [paper](https://arxiv.org/abs/2001.04451)
+- [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks](https://arxiv.org/abs/1901.11196)
 
 
 ## Model training (deep learning)
