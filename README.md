@@ -107,6 +107,11 @@ A list of some of my favorite papers and articles.
 - [Unsupervised Data Augmentation](https://arxiv.org/abs/1904.12848)
 - [Deep InfoMax](https://arxiv.org/abs/1808.06670)
 
+## Adversarial robustness
+- [MaskedNet (protecting from Differential Power Analysis attacks](https://arxiv.org/abs/1910.13063)
+- [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083)
+- [Robustness May Be at Odds with Accuracy](https://arxiv.org/abs/1805.12152)
+
 ## Other interesting techniques
 - [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
 - [Curriculum Learning](https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf)
@@ -117,7 +122,6 @@ A list of some of my favorite papers and articles.
 - [XNOR-Net](https://arxiv.org/abs/1603.05279)
 - [Data Echoing](https://arxiv.org/abs/1907.05550)
 - [Bayesian Inference for Large Scale Image Classification](https://arxiv.org/abs/1908.03491)
-- [MaskedNet (protecting from Differential Power Analysis attacks](https://arxiv.org/abs/1910.13063)
 - [Visualizing the Loss Landscape of Neural Nets (skip connections)](https://arxiv.org/abs/1712.09913)
 - [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155)
 - [When Does Label Smoothing Help?](https://arxiv.org/abs/1906.02629v2)
