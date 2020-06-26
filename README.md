@@ -47,7 +47,7 @@ A list of some of my favorite papers and articles.
 - [Transformers](https://arxiv.org/abs/1706.03762)
 - BERT [article](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) and [paper](https://arxiv.org/abs/1810.04805)
 - [ULMFiT](https://arxiv.org/abs/1801.06146)
-- [GPT-2](https://openai.com/blog/better-language-models/)
+- [GPT-2](https://openai.com/blog/better-language-models/) and [GPT-3](https://arxiv.org/abs/2005.14165)
 - [List of important NLP papers](https://github.com/mihail911/nlp-library)
 - [XLNet](https://arxiv.org/abs/1906.08237)
 - [ERNIE 2.0](https://arxiv.org/abs/1907.12412)
