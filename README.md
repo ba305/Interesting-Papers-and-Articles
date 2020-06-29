@@ -59,6 +59,7 @@ A list of some of my favorite papers and articles.
 - [The Cost of Training NLP Models: A Concise Overview](https://arxiv.org/abs/2004.08900)
 - [Single Headed Attention RNN](https://arxiv.org/abs/1911.11423)
 - Reformer: The Efficient Transformer [blog](https://ai.googleblog.com/2020/01/reformer-efficient-transformer.html) and [paper](https://arxiv.org/abs/2001.04451)
+- [Adversarial NLI: A New Benchmark for Natural Language Understanding](https://arxiv.org/abs/1910.14599)
 - [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks](https://arxiv.org/abs/1901.11196)
 
 
@@ -136,6 +137,9 @@ A list of some of my favorite papers and articles.
 - POET [post](https://eng.uber.com/poet-open-ended-deep-learning/) and [paper](https://arxiv.org/abs/1901.01753), Enhanced POET [post](https://eng.uber.com/enhanced-poet-machine-learning/) and [paper](https://arxiv.org/abs/2003.08536)
 - Double Descent [post](https://openai.com/blog/deep-double-descent/) and [paper](https://arxiv.org/abs/1912.02292)
 - [Train Large, Then Compress: Rethinking Model Size for Efficient Training and Inference of Transformers](https://arxiv.org/abs/2002.11794)
+- [Bayesian Deep Learning and a Probabilistic Perspective of Generalization](https://arxiv.org/abs/2002.08791)
+- [Learning Concepts with Energy Functions](https://openai.com/blog/learning-concepts-with-energy-functions/)
+
 
 
 ## Reinforcement Learning
@@ -166,4 +170,5 @@ A list of some of my favorite papers and articles.
 - [State of AI (Nathan Benaich)](https://www.stateof.ai/)
 - [Statistical Modeling: The Two Cultures](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726)
 - [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547)
+- [Shortcut Learning](https://arxiv.org/abs/2004.07780)
 - [Why We Need DevOps for ML Data](https://tecton.ai/blog/devops-ml-data/)
