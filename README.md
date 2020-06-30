@@ -177,4 +177,6 @@ A list of some of my favorite papers and articles.
 - [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547)
 - [Shortcut Learning](https://arxiv.org/abs/2004.07780)
 - [Tips for Research](https://ruder.io/10-tips-for-research-and-a-phd/)
+- [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html)
+- [De-Mystifying Good Research and Good Papers](https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html)
 - [Why We Need DevOps for ML Data](https://tecton.ai/blog/devops-ml-data/)
