@@ -176,4 +176,5 @@ A list of some of my favorite papers and articles.
 - [Statistical Modeling: The Two Cultures](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726)
 - [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547)
 - [Shortcut Learning](https://arxiv.org/abs/2004.07780)
+- [Tips for Research](https://ruder.io/10-tips-for-research-and-a-phd/)
 - [Why We Need DevOps for ML Data](https://tecton.ai/blog/devops-ml-data/)
