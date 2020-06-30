@@ -7,7 +7,7 @@ A list of some of my favorite papers and articles.
 - [ResNet](https://arxiv.org/abs/1512.03385)
 - [VGG](https://arxiv.org/abs/1409.1556)
 - GoogleNet/Inception [paper 1](https://arxiv.org/pdf/1409.4842.pdf) and [paper 2](https://arxiv.org/pdf/1512.00567.pdf)
-- [MobileNet](https://arxiv.org/abs/1704.04861)
+- [MobileNet](https://arxiv.org/abs/1704.04861) and [MobileNetV3](https://arxiv.org/abs/1905.02244)
 - [SqueezeNet](https://arxiv.org/abs/1602.07360)
 - [GANs](https://arxiv.org/abs/1406.2661)
 
@@ -102,6 +102,7 @@ A list of some of my favorite papers and articles.
 ## "AutoML"-ish ideas
 - NASNet [article](https://ai.googleblog.com/2017/11/automl-for-large-scale-image.html) and [paper](https://arxiv.org/abs/1707.07012)
 - [ENAS](https://arxiv.org/abs/1802.03268)
+- [FBNet](https://arxiv.org/abs/1812.03443)
 
 ## Semi-supervised and Unsupervised learning
 - [MixMatch](https://arxiv.org/abs/1905.02249)
@@ -139,7 +140,11 @@ A list of some of my favorite papers and articles.
 - [Train Large, Then Compress: Rethinking Model Size for Efficient Training and Inference of Transformers](https://arxiv.org/abs/2002.11794)
 - [Bayesian Deep Learning and a Probabilistic Perspective of Generalization](https://arxiv.org/abs/2002.08791)
 - [Learning Concepts with Energy Functions](https://openai.com/blog/learning-concepts-with-energy-functions/)
+- [Once-for-All: Train One Network and Specialize it for Efficient Deployment](https://arxiv.org/abs/1908.09791)
 
+## Other
+- [A Metric Learning Reality Check](https://arxiv.org/abs/2003.08505)
+- [Explainable Machine Learning in Deployment](https://arxiv.org/abs/1909.06342)
 
 
 ## Reinforcement Learning
