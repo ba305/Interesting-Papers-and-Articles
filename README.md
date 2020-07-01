@@ -76,6 +76,9 @@ A list of some of my favorite papers and articles.
 - [Hyperparameters (Leslie Smith)](https://arxiv.org/abs/1803.09820)
 - [Super-Convergence (Leslie Smith)](https://arxiv.org/abs/1708.07120)
 - [BatchNorm](https://arxiv.org/abs/1502.03167)
+- [LayerNorm](https://arxiv.org/abs/1607.06450)
+- [InstanceNorm](https://arxiv.org/abs/1607.08022)
+- [GroupNorm](https://arxiv.org/abs/1803.08494)
 - [Dropout](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
 - Targeted dropout [Paper](https://arxiv.org/abs/1905.13678) and [website](https://for.ai/blog/targeted-dropout/)
 - [Quantization](https://arxiv.org/abs/1907.05686)
@@ -98,6 +101,7 @@ A list of some of my favorite papers and articles.
 - [Pooling is neither necessary nor sufficient for appropriate deformation stability in CNNs](https://arxiv.org/abs/1804.04438)
 - [Decoupled Weight Decay Regularization](https://arxiv.org/abs/1711.05101)
 - [Averaging Weights Leads to Wider Optima and Better Generalization](https://arxiv.org/abs/1803.05407)
+- [Revisiting Small Batch Training for Deep Neural Networks](https://arxiv.org/abs/1804.07612)
 
 ## "AutoML"-ish ideas
 - NASNet [article](https://ai.googleblog.com/2017/11/automl-for-large-scale-image.html) and [paper](https://arxiv.org/abs/1707.07012)
