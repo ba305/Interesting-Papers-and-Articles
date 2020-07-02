@@ -179,6 +179,7 @@ A list of some of my favorite papers and articles.
 - [State of AI (Nathan Benaich)](https://www.stateof.ai/)
 - [Statistical Modeling: The Two Cultures](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726)
 - [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547)
+- [Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 - [Shortcut Learning](https://arxiv.org/abs/2004.07780)
 - [Tips for Research](https://ruder.io/10-tips-for-research-and-a-phd/)
 - [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html)
