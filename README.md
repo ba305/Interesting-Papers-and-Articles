@@ -107,7 +107,9 @@ A list of some of my favorite papers and articles.
 - NASNet [article](https://ai.googleblog.com/2017/11/automl-for-large-scale-image.html) and [paper](https://arxiv.org/abs/1707.07012)
 - [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578)
 - [Regularized Evolution for Image Classifier Architecture Search](https://arxiv.org/abs/1802.01548)
+- [Large-Scale Evolution of Image Classifiers](https://arxiv.org/abs/1703.01041)
 - [ENAS](https://arxiv.org/abs/1802.03268)
+- [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/abs/1807.11626)
 - [FBNet](https://arxiv.org/abs/1812.03443)
 - [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch](https://arxiv.org/abs/2003.03384)
 
@@ -146,7 +148,6 @@ A list of some of my favorite papers and articles.
 - [Capsule Networks](https://arxiv.org/abs/1710.09829)
 - [Graph Networks](https://arxiv.org/abs/1806.01261)
 - [Learning From Brains How to Regularize Machines](https://arxiv.org/abs/1911.05072)
-- POET [post](https://eng.uber.com/poet-open-ended-deep-learning/) and [paper](https://arxiv.org/abs/1901.01753), Enhanced POET [post](https://eng.uber.com/enhanced-poet-machine-learning/) and [paper](https://arxiv.org/abs/2003.08536)
 - Double Descent [post](https://openai.com/blog/deep-double-descent/) and [paper](https://arxiv.org/abs/1912.02292)
 - [Train Large, Then Compress: Rethinking Model Size for Efficient Training and Inference of Transformers](https://arxiv.org/abs/2002.11794)
 - [Bayesian Deep Learning and a Probabilistic Perspective of Generalization](https://arxiv.org/abs/2002.08791)
@@ -156,7 +157,9 @@ A list of some of my favorite papers and articles.
 ## Other
 - [A Metric Learning Reality Check](https://arxiv.org/abs/2003.08505)
 - [Explainable Machine Learning in Deployment](https://arxiv.org/abs/1909.06342)
-
+- POET [post](https://eng.uber.com/poet-open-ended-deep-learning/) and [paper](https://arxiv.org/abs/1901.01753), Enhanced POET [post](https://eng.uber.com/enhanced-poet-machine-learning/) and [paper](https://arxiv.org/abs/2003.08536)
+- [Searching for Activation Functions](https://arxiv.org/abs/1710.05941)
+- [Evolving Normalization-Activation Layers](https://arxiv.org/abs/2004.02967)
 
 ## Reinforcement Learning
 - [AlphaStar](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
