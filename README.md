@@ -105,6 +105,7 @@ A list of some of my favorite papers and articles.
 
 ## "AutoML"-ish ideas
 - NASNet [article](https://ai.googleblog.com/2017/11/automl-for-large-scale-image.html) and [paper](https://arxiv.org/abs/1707.07012)
+- [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578)
 - [ENAS](https://arxiv.org/abs/1802.03268)
 - [FBNet](https://arxiv.org/abs/1812.03443)
 - [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch](https://arxiv.org/abs/2003.03384)
@@ -113,6 +114,10 @@ A list of some of my favorite papers and articles.
 - [MixMatch](https://arxiv.org/abs/1905.02249)
 - [Unsupervised Data Augmentation](https://arxiv.org/abs/1904.12848)
 - [Deep InfoMax](https://arxiv.org/abs/1808.06670)
+- [Pseudo-Label: The Simple and Efficient Semi-Supervised Learning Method for Deep Neural Networks](http://deeplearning.net/wp-content/uploads/2013/03/pseudo_label_final.pdf)
+- [Self-training with Noisy Student improves ImageNet classification (pseudo labeling)](https://arxiv.org/abs/1911.04252) and [video](https://www.youtube.com/watch?v=Y8YaU9mv_us&t=4s)
+- [Meta Pseudo Labels](https://arxiv.org/abs/2003.10580)
+
 
 ## Adversarial robustness
 - [MaskedNet (protecting from Differential Power Analysis attacks](https://arxiv.org/abs/1910.13063)
