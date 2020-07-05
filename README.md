@@ -107,6 +107,7 @@ A list of some of my favorite papers and articles.
 - NASNet [article](https://ai.googleblog.com/2017/11/automl-for-large-scale-image.html) and [paper](https://arxiv.org/abs/1707.07012)
 - [ENAS](https://arxiv.org/abs/1802.03268)
 - [FBNet](https://arxiv.org/abs/1812.03443)
+- [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch](https://arxiv.org/abs/2003.03384)
 
 ## Semi-supervised and Unsupervised learning
 - [MixMatch](https://arxiv.org/abs/1905.02249)
