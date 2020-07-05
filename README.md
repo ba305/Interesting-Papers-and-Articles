@@ -87,7 +87,7 @@ A list of some of my favorite papers and articles.
 - [Gate decorators for model pruning](https://arxiv.org/abs/1909.08174)
 - [ZeRO-2 & DeepSpeed: Shattering barriers of deep learning speed & scale](https://www.microsoft.com/en-us/research/blog/zero-2-deepspeed-shattering-barriers-of-deep-learning-speed-scale/)
 - [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
-- [All you need is a good init](https://arxiv.org/abs/1511.06422)
+- [All you need is a good init (LSUV)](https://arxiv.org/abs/1511.06422)
 - [Fixup Initialization: Residual Learning Without Normalization](https://arxiv.org/abs/1901.09321)
 - [Xavier initialization](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
 - [Kaiming initialization, and PReLU](https://arxiv.org/abs/1502.01852)
