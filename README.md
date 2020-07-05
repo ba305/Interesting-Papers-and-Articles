@@ -121,6 +121,7 @@ A list of some of my favorite papers and articles.
 - [Pseudo-Label: The Simple and Efficient Semi-Supervised Learning Method for Deep Neural Networks](http://deeplearning.net/wp-content/uploads/2013/03/pseudo_label_final.pdf)
 - [Self-training with Noisy Student improves ImageNet classification (pseudo labeling)](https://arxiv.org/abs/1911.04252) and [video](https://www.youtube.com/watch?v=Y8YaU9mv_us&t=4s)
 - [Meta Pseudo Labels](https://arxiv.org/abs/2003.10580)
+- [Billion-scale semi-supervised learning for state-of-the-art image and video classification (semi-supervised and weakly-supervised)](https://ai.facebook.com/blog/billion-scale-semi-supervised-learning/)
 
 
 ## Adversarial robustness
