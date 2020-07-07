@@ -109,6 +109,7 @@ A list of some of my favorite papers and articles.
 - [Large-Scale Evolution of Image Classifiers](https://arxiv.org/abs/1703.01041)
 - [ENAS](https://arxiv.org/abs/1802.03268)
 - [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/abs/1807.11626)
+- [DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055)
 - [FBNet](https://arxiv.org/abs/1812.03443)
 - [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch](https://arxiv.org/abs/2003.03384)
 
