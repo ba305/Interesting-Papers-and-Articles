@@ -97,8 +97,6 @@ A list of some of my favorite papers and articles.
 - [AutoAugment: Learning Augmentation Policies from Data](https://arxiv.org/abs/1805.09501)
 - [RandAugment: Practical automated data augmentation with a reduced search space](https://arxiv.org/abs/1909.13719)
 - [Population Based Augmentation: Efficient Learning of Augmentation Policy Schedules](https://arxiv.org/abs/1905.05393)
-- [SimCLR: A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
-- [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
 - [Pooling is neither necessary nor sufficient for appropriate deformation stability in CNNs](https://arxiv.org/abs/1804.04438)
 - [Decoupled Weight Decay Regularization](https://arxiv.org/abs/1711.05101)
 - [Averaging Weights Leads to Wider Optima and Better Generalization](https://arxiv.org/abs/1803.05407)
@@ -114,7 +112,7 @@ A list of some of my favorite papers and articles.
 - [FBNet](https://arxiv.org/abs/1812.03443)
 - [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch](https://arxiv.org/abs/2003.03384)
 
-## Semi-supervised and Unsupervised learning
+## Semi-supervised, Self-supervised, and Unsupervised learning
 - [MixMatch](https://arxiv.org/abs/1905.02249)
 - [Unsupervised Data Augmentation](https://arxiv.org/abs/1904.12848)
 - [Deep InfoMax](https://arxiv.org/abs/1808.06670)
@@ -122,6 +120,8 @@ A list of some of my favorite papers and articles.
 - [Self-training with Noisy Student improves ImageNet classification (pseudo labeling)](https://arxiv.org/abs/1911.04252) and [video](https://www.youtube.com/watch?v=Y8YaU9mv_us&t=4s)
 - [Meta Pseudo Labels](https://arxiv.org/abs/2003.10580)
 - [Billion-scale semi-supervised learning for state-of-the-art image and video classification (semi-supervised and weakly-supervised)](https://ai.facebook.com/blog/billion-scale-semi-supervised-learning/)
+- [SimCLR: A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
+- [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
 
 
 ## Adversarial robustness
