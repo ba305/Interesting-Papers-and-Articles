@@ -106,7 +106,7 @@ A list of some of my favorite papers and articles.
 - Fast AI thoughts on AutoML [part 1](https://www.fast.ai/2018/07/12/auto-ml-1/), [part 2](https://www.fast.ai/2018/07/16/auto-ml2/), [part 3](https://www.fast.ai/2018/07/23/auto-ml-3/)
 - NASNet [article](https://ai.googleblog.com/2017/11/automl-for-large-scale-image.html) and [paper](https://arxiv.org/abs/1707.07012)
 - [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578)
-- [Regularized Evolution for Image Classifier Architecture Search](https://arxiv.org/abs/1802.01548)
+- [Regularized Evolution for Image Classifier Architecture Search (AmoebaNet)](https://arxiv.org/abs/1802.01548)
 - [Large-Scale Evolution of Image Classifiers](https://arxiv.org/abs/1703.01041)
 - [ENAS](https://arxiv.org/abs/1802.03268)
 - [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/abs/1807.11626)
