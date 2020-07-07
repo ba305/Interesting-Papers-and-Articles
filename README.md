@@ -197,3 +197,4 @@ A list of some of my favorite papers and articles.
 - [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html)
 - [De-Mystifying Good Research and Good Papers](https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html)
 - [Why We Need DevOps for ML Data](https://tecton.ai/blog/devops-ml-data/)
+- [AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence](https://arxiv.org/abs/1905.10985)
