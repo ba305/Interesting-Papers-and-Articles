@@ -165,6 +165,7 @@ A list of some of my favorite papers and articles.
 - POET [post](https://eng.uber.com/poet-open-ended-deep-learning/) and [paper](https://arxiv.org/abs/1901.01753), Enhanced POET [post](https://eng.uber.com/enhanced-poet-machine-learning/) and [paper](https://arxiv.org/abs/2003.08536)
 - [Searching for Activation Functions](https://arxiv.org/abs/1710.05941)
 - [Evolving Normalization-Activation Layers](https://arxiv.org/abs/2004.02967)
+- [Markov Logic Networks](https://homes.cs.washington.edu/~pedrod/papers/mlj05.pdf)
 
 ## Reinforcement Learning
 - [AlphaStar](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
