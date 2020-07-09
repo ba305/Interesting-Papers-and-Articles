@@ -72,6 +72,8 @@ A list of some of my favorite papers and articles.
 - [Cyclical Learning Rates (Leslie Smith)](https://arxiv.org/abs/1506.01186)
 - [Adam optimizer](https://arxiv.org/abs/1412.6980)
 - [RAdam optimizer](https://arxiv.org/abs/1908.03265v1)
+- [AdamW: Decoupled Weight Decay Regularization](https://arxiv.org/abs/1711.05101)
+- [An overview of gradient descent optimization algorithms](https://arxiv.org/abs/1609.04747) and [blog](https://ruder.io/optimizing-gradient-descent/)
 - [Nesterov Momentum[(http://cs229.stanford.edu/proj2015/054_report.pdf)
 - [Large Batch Optimization for Deep Learning: Training BERT in 76 minutes (LAMB optimizer)](https://arxiv.org/abs/1904.00962)
 - [Hyperparameters (Leslie Smith)](https://arxiv.org/abs/1803.09820)
@@ -98,7 +100,6 @@ A list of some of my favorite papers and articles.
 - [RandAugment: Practical automated data augmentation with a reduced search space](https://arxiv.org/abs/1909.13719)
 - [Population Based Augmentation: Efficient Learning of Augmentation Policy Schedules](https://arxiv.org/abs/1905.05393)
 - [Pooling is neither necessary nor sufficient for appropriate deformation stability in CNNs](https://arxiv.org/abs/1804.04438)
-- [Decoupled Weight Decay Regularization](https://arxiv.org/abs/1711.05101)
 - [Averaging Weights Leads to Wider Optima and Better Generalization](https://arxiv.org/abs/1803.05407)
 - [Revisiting Small Batch Training for Deep Neural Networks](https://arxiv.org/abs/1804.07612)
 
