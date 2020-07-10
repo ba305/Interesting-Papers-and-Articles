@@ -77,6 +77,8 @@ A list of some of my favorite papers and articles.
 - [Nesterov Momentum[(http://cs229.stanford.edu/proj2015/054_report.pdf)
 - [LARS Optimizer: Large Batch Training of Convolutional Networks](https://arxiv.org/abs/1708.03888)
 - [LAMB Optimizer: Large Batch Optimization for Deep Learning: Training BERT in 76 minutes](https://arxiv.org/abs/1904.00962)
+- [Adafactor: Adaptive Learning Rates with Sublinear Memory Cost](https://arxiv.org/abs/1804.04235)
+- [Adabound and AMSBound](https://arxiv.org/abs/1902.09843)
 - [Hyperparameters (Leslie Smith)](https://arxiv.org/abs/1803.09820)
 - [Super-Convergence (Leslie Smith)](https://arxiv.org/abs/1708.07120)
 - [BatchNorm](https://arxiv.org/abs/1502.03167)
