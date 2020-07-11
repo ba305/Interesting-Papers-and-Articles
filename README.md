@@ -132,6 +132,8 @@ A list of some of my favorite papers and articles.
 - [SimCLR: A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
 - [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
 - [Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning](https://arxiv.org/abs/2006.07733)
+- [DeepCluster: Deep Clustering for Unsupervised Learning of Visual Features](https://arxiv.org/abs/1807.05520)
+- [Self-labelling via simultaneous clustering and representation learning](https://arxiv.org/abs/1911.05371)
 
 
 ## Adversarial robustness
