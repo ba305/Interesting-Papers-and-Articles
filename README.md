@@ -131,6 +131,7 @@ A list of some of my favorite papers and articles.
 - [Meta Pseudo Labels](https://arxiv.org/abs/2003.10580)
 - [Billion-scale semi-supervised learning for state-of-the-art image and video classification (semi-supervised and weakly-supervised)](https://ai.facebook.com/blog/billion-scale-semi-supervised-learning/)
 - [SimCLR: A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
+- [SimCLRv2: Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
 - [Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning](https://arxiv.org/abs/2006.07733)
 - [DeepCluster: Deep Clustering for Unsupervised Learning of Visual Features](https://arxiv.org/abs/1807.05520)
