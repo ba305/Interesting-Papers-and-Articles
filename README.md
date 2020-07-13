@@ -108,6 +108,7 @@ A list of some of my favorite papers and articles.
 - [Pooling is neither necessary nor sufficient for appropriate deformation stability in CNNs](https://arxiv.org/abs/1804.04438)
 - [Averaging Weights Leads to Wider Optima and Better Generalization](https://arxiv.org/abs/1803.05407)
 - [Revisiting Small Batch Training for Deep Neural Networks](https://arxiv.org/abs/1804.07612)
+- [Supervised Contrastive Learning](https://arxiv.org/abs/2004.11362)
 
 ## "AutoML"-ish ideas
 - Fast AI thoughts on AutoML [part 1](https://www.fast.ai/2018/07/12/auto-ml-1/), [part 2](https://www.fast.ai/2018/07/16/auto-ml2/), [part 3](https://www.fast.ai/2018/07/23/auto-ml-3/)
