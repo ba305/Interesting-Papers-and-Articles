@@ -125,6 +125,7 @@ A list of some of my favorite papers and articles.
 ## Semi-supervised, Self-supervised, and Unsupervised learning
 - [MixMatch](https://arxiv.org/abs/1905.02249)
 - [Unsupervised Data Augmentation](https://arxiv.org/abs/1904.12848)
+- [Revisiting Self-Supervised Visual Representation Learning](https://arxiv.org/abs/1901.09005)
 - [Deep InfoMax](https://arxiv.org/abs/1808.06670)
 - [Pseudo-Label: The Simple and Efficient Semi-Supervised Learning Method for Deep Neural Networks](http://deeplearning.net/wp-content/uploads/2013/03/pseudo_label_final.pdf)
 - [Self-training with Noisy Student improves ImageNet classification (pseudo labeling)](https://arxiv.org/abs/1911.04252) and [video](https://www.youtube.com/watch?v=Y8YaU9mv_us&t=4s)
