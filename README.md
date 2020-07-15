@@ -139,11 +139,11 @@ A list of some of my favorite papers and articles.
 - [DeepCluster: Deep Clustering for Unsupervised Learning of Visual Features](https://arxiv.org/abs/1807.05520)
 - [Self-labelling via simultaneous clustering and representation learning](https://arxiv.org/abs/1911.05371)
 
-# Fairness/Ethics
+## Fairness
 - [Datasheets for Datasets](https://arxiv.org/abs/1803.09010)
 - [Gender shades: Intersectional accuracy disparities in commercial gender classification](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
 - [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520)
-- [Balanced Datasets Are Not Enough:Estimating and Mitigating Gender Bias in Deep Image Representations](https://arxiv.org/abs/1811.08489)
+- [Balanced Datasets Are Not Enough: Estimating and Mitigating Gender Bias in Deep Image Representations](https://arxiv.org/abs/1811.08489)
 - [AI Fairness 360: An Extensible Toolkit for Detecting, Understanding, and Mitigating Unwanted Algorithmic Bias](https://arxiv.org/abs/1810.01943)
 - [Mitigating Unwanted Biases with Adversarial Learning](https://arxiv.org/abs/1801.07593)
 
