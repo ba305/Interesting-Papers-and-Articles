@@ -125,6 +125,7 @@ A list of some of my favorite papers and articles.
 ## Semi-supervised, Self-supervised, Weakly-supervised, and Unsupervised learning
 - [MixMatch](https://arxiv.org/abs/1905.02249)
 - [Snorkel: Rapid Training Data Creation with Weak Supervision](https://arxiv.org/abs/1711.10160)
+- [Learning to Compose Domain-Specific Transformations for Data Augmentation](https://arxiv.org/abs/1709.01643)
 - [Unsupervised Data Augmentation](https://arxiv.org/abs/1904.12848)
 - [Revisiting Self-Supervised Visual Representation Learning](https://arxiv.org/abs/1901.09005)
 - [Exploring the Limits of Weakly Supervised Pretraining](https://arxiv.org/abs/1805.00932)
