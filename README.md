@@ -181,6 +181,7 @@ A list of some of my favorite papers and articles.
 - [Bayesian Deep Learning and a Probabilistic Perspective of Generalization](https://arxiv.org/abs/2002.08791)
 - [Learning Concepts with Energy Functions](https://openai.com/blog/learning-concepts-with-energy-functions/)
 - [Once-for-All: Train One Network and Specialize it for Efficient Deployment](https://arxiv.org/abs/1908.09791)
+- [DeepLIFT: Learning Important Features Through Propagating Activation Differences](https://arxiv.org/abs/1704.02685)
 
 ## Other
 - [A Metric Learning Reality Check](https://arxiv.org/abs/2003.08505)
