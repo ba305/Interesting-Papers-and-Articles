@@ -173,7 +173,6 @@ A list of some of my favorite papers and articles.
 - [Generative Models for Effective ML on Private, Decentralized Datasets](https://iclr.cc/virtual_2020/poster_SJgaRA4FPH.html)
 - [Self-Attention Generative Adversarial Networks](https://arxiv.org/abs/1805.08318)
 - [Self-Normalizing Neural Networks](https://arxiv.org/abs/1706.02515)
-- [Capsule Networks](https://arxiv.org/abs/1710.09829)
 - [Graph Networks](https://arxiv.org/abs/1806.01261)
 - [Learning From Brains How to Regularize Machines](https://arxiv.org/abs/1911.05072)
 - Double Descent [post](https://openai.com/blog/deep-double-descent/) and [paper](https://arxiv.org/abs/1912.02292)
@@ -190,6 +189,8 @@ A list of some of my favorite papers and articles.
 - [Searching for Activation Functions](https://arxiv.org/abs/1710.05941)
 - [Evolving Normalization-Activation Layers](https://arxiv.org/abs/2004.02967)
 - [Markov Logic Networks](https://homes.cs.washington.edu/~pedrod/papers/mlj05.pdf)
+- [Capsule Networks](https://arxiv.org/abs/1710.09829)
+- [Stacked Capsule Autoencoders](https://arxiv.org/abs/1906.06818)
 
 ## Reinforcement Learning
 - [AlphaStar](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
