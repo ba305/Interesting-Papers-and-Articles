@@ -142,6 +142,8 @@ A list of some of my favorite papers and articles.
 - [Self-labelling via simultaneous clustering and representation learning](https://arxiv.org/abs/1911.05371)
 - [S4L: Self-Supervised Semi-Supervised Learning](https://arxiv.org/abs/1905.03670)
 - [Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/abs/1905.09272)
+- [ImageBERT: Cross-modal Pre-training with Large-scale Weak-supervised Image-Text Data](https://arxiv.org/abs/2001.07966)
+- Image GPT [blog](https://openai.com/blog/image-gpt/) and [paper](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)
 
 ## Fairness
 - [Datasheets for Datasets](https://arxiv.org/abs/1803.09010)
