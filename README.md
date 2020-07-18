@@ -193,6 +193,7 @@ A list of some of my favorite papers and articles.
 - [Stacked Capsule Autoencoders](https://arxiv.org/abs/1906.06818)
 - [Composing graphical models with neural networks for structured representations and fast inference](https://arxiv.org/abs/1603.06277)
 - [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)
+- [Invertible Residual Networks](https://arxiv.org/abs/1811.00995)
 
 ## Reinforcement Learning
 - [AlphaStar](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
