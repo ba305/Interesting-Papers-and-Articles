@@ -187,6 +187,7 @@ A list of some of my favorite papers and articles.
 - [DeepLIFT: Learning Important Features Through Propagating Activation Differences](https://arxiv.org/abs/1704.02685)
 - [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
 - [The Reversible Residual Network: Backpropagation Without Storing Activations](https://arxiv.org/abs/1707.04585)
+- Block-Sparse GPU Kernels [blog](https://openai.com/blog/block-sparse-gpu-kernels/) and [paper](https://cdn.openai.com/blocksparse/blocksparsepaper.pdf)
 
 ## Other
 - [A Metric Learning Reality Check](https://arxiv.org/abs/2003.08505)
