@@ -140,6 +140,7 @@ A list of some of my favorite papers and articles.
 - [Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning](https://arxiv.org/abs/2006.07733)
 - [DeepCluster: Deep Clustering for Unsupervised Learning of Visual Features](https://arxiv.org/abs/1807.05520)
 - [Self-labelling via simultaneous clustering and representation learning](https://arxiv.org/abs/1911.05371)
+- [S4L: Self-Supervised Semi-Supervised Learning](https://arxiv.org/abs/1905.03670)
 
 ## Fairness
 - [Datasheets for Datasets](https://arxiv.org/abs/1803.09010)
