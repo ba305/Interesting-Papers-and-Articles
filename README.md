@@ -191,6 +191,8 @@ A list of some of my favorite papers and articles.
 - [Markov Logic Networks](https://homes.cs.washington.edu/~pedrod/papers/mlj05.pdf)
 - [Capsule Networks](https://arxiv.org/abs/1710.09829)
 - [Stacked Capsule Autoencoders](https://arxiv.org/abs/1906.06818)
+- [Composing graphical models with neural networks for structured representations and fast inference](https://arxiv.org/abs/1603.06277)
+- [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)
 
 ## Reinforcement Learning
 - [AlphaStar](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
