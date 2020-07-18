@@ -195,6 +195,7 @@ A list of some of my favorite papers and articles.
 - [Composing graphical models with neural networks for structured representations and fast inference](https://arxiv.org/abs/1603.06277)
 - [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)
 - [Invertible Residual Networks](https://arxiv.org/abs/1811.00995)
+- [Avoiding pathologies in very deep networks](https://arxiv.org/abs/1402.5836)
 
 ## Reinforcement Learning
 - [AlphaStar](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
