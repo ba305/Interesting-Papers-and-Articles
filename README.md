@@ -182,7 +182,7 @@ A list of some of my favorite papers and articles.
 - [Once-for-All: Train One Network and Specialize it for Efficient Deployment](https://arxiv.org/abs/1908.09791)
 - [DeepLIFT: Learning Important Features Through Propagating Activation Differences](https://arxiv.org/abs/1704.02685)
 - [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
-- [The re-versible residual network:  Backpropagation without storingactivations.](https://arxiv.org/abs/1707.04585)
+- [The Reversible Residual Network: Backpropagation Without Storing Activations](https://arxiv.org/abs/1707.04585)
 
 ## Other
 - [A Metric Learning Reality Check](https://arxiv.org/abs/2003.08505)
