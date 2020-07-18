@@ -1,5 +1,4 @@
 # Interesting-Papers-and-Articles
-A list of some of my favorite papers and articles.
 
 ## Some classic papers
 - [LeNet](http://yann.lecun.com/exdb/lenet/)
@@ -94,7 +93,6 @@ A list of some of my favorite papers and articles.
 - [Mixed Precision Training](https://arxiv.org/abs/1710.03740)
 - [Gate decorators for model pruning](https://arxiv.org/abs/1909.08174)
 - [ZeRO-2 & DeepSpeed: Shattering barriers of deep learning speed & scale](https://www.microsoft.com/en-us/research/blog/zero-2-deepspeed-shattering-barriers-of-deep-learning-speed-scale/)
-- [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
 - [All you need is a good init (LSUV)](https://arxiv.org/abs/1511.06422)
 - [Fixup Initialization: Residual Learning Without Normalization](https://arxiv.org/abs/1901.09321)
 - [Xavier initialization](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
@@ -187,6 +185,8 @@ A list of some of my favorite papers and articles.
 - [DeepLIFT: Learning Important Features Through Propagating Activation Differences](https://arxiv.org/abs/1704.02685)
 - [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
 - [The Reversible Residual Network: Backpropagation Without Storing Activations](https://arxiv.org/abs/1707.04585)
+- [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
+- [Rigging the Lottery: Making All Tickets Winners](https://arxiv.org/abs/1911.11134)
 - Block-Sparse GPU Kernels [blog](https://openai.com/blog/block-sparse-gpu-kernels/) and [paper](https://cdn.openai.com/blocksparse/blocksparsepaper.pdf)
 
 ## Other
