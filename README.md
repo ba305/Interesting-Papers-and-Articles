@@ -141,6 +141,7 @@
 - [RotNet: Unsupervised Representation Learning by Predicting Image Rotations](https://arxiv.org/abs/1803.07728)
 - [BiGAN: Adversarial Feature Learning](https://arxiv.org/abs/1605.09782)
 - [DeepCluster: Deep Clustering for Unsupervised Learning of Visual Features](https://arxiv.org/abs/1807.05520)
+- [SCAN: Learning to Classify Images without Labels](https://arxiv.org/abs/2005.12320)
 - [Self-labelling via simultaneous clustering and representation learning](https://arxiv.org/abs/1911.05371)
 - [S4L: Self-Supervised Semi-Supervised Learning](https://arxiv.org/abs/1905.03670)
 - [Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/abs/1905.09272)
