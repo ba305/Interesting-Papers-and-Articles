@@ -122,6 +122,7 @@
 
 ## Semi-supervised, Self-supervised, Weakly-supervised, and Unsupervised learning
 - [MixMatch](https://arxiv.org/abs/1905.02249)
+- [FixMatch](https://arxiv.org/abs/2001.07685)
 - [Snorkel: Rapid Training Data Creation with Weak Supervision](https://arxiv.org/abs/1711.10160)
 - [Learning to Compose Domain-Specific Transformations for Data Augmentation](https://arxiv.org/abs/1709.01643)
 - [Unsupervised Data Augmentation](https://arxiv.org/abs/1904.12848)
