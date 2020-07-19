@@ -181,6 +181,7 @@
 - [Self-Normalizing Neural Networks](https://arxiv.org/abs/1706.02515)
 - [Graph Networks](https://arxiv.org/abs/1806.01261)
 - [Learning From Brains How to Regularize Machines](https://arxiv.org/abs/1911.05072)
+- [Understanding intermediate layers using linear classifier probes](https://arxiv.org/abs/1610.01644)
 - Double Descent [post](https://openai.com/blog/deep-double-descent/) and [paper](https://arxiv.org/abs/1912.02292)
 - [Train Large, Then Compress: Rethinking Model Size for Efficient Training and Inference of Transformers](https://arxiv.org/abs/2002.11794)
 - [Bayesian Deep Learning and a Probabilistic Perspective of Generalization](https://arxiv.org/abs/2002.08791)
