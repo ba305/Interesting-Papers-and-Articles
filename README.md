@@ -133,7 +133,7 @@
 - [Pseudo-Label: The Simple and Efficient Semi-Supervised Learning Method for Deep Neural Networks](http://deeplearning.net/wp-content/uploads/2013/03/pseudo_label_final.pdf)
 - [Self-training with Noisy Student improves ImageNet classification (pseudo labeling)](https://arxiv.org/abs/1911.04252) and [video](https://www.youtube.com/watch?v=Y8YaU9mv_us&t=4s)
 - [Meta Pseudo Labels](https://arxiv.org/abs/2003.10580)
-- [Billion-scale semi-supervised learning for state-of-the-art image and video classification (semi-supervised and weakly-supervised)](https://ai.facebook.com/blog/billion-scale-semi-supervised-learning/)
+- Billion-scale semi-supervised learning for image classification [blog](https://ai.facebook.com/blog/billion-scale-semi-supervised-learning/) and [paper](https://arxiv.org/abs/1905.00546)
 - [SimCLR: A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
 - [SimCLRv2: Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [MoCo: Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
