@@ -138,6 +138,8 @@
 - [SimCLRv2: Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 - [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
 - [Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning](https://arxiv.org/abs/2006.07733)
+- [RotNet: Unsupervised Representation Learning by Predicting Image Rotations](https://arxiv.org/abs/1803.07728)
+- [BiGAN: Adversarial Feature Learning](https://arxiv.org/abs/1605.09782)
 - [DeepCluster: Deep Clustering for Unsupervised Learning of Visual Features](https://arxiv.org/abs/1807.05520)
 - [Self-labelling via simultaneous clustering and representation learning](https://arxiv.org/abs/1911.05371)
 - [S4L: Self-Supervised Semi-Supervised Learning](https://arxiv.org/abs/1905.03670)
