@@ -100,6 +100,7 @@
 - [Orthogonal initialization](https://arxiv.org/abs/1312.6120)
 - [MixUp Data Augmentation](https://arxiv.org/abs/1710.09412)
 - [CutMix Data Augmentation](https://arxiv.org/abs/1905.04899)
+- [Learning to Compose Domain-Specific Transformations for Data Augmentation](https://arxiv.org/abs/1709.01643)
 - [AutoAugment: Learning Augmentation Policies from Data](https://arxiv.org/abs/1805.09501)
 - [RandAugment: Practical automated data augmentation with a reduced search space](https://arxiv.org/abs/1909.13719)
 - [Population Based Augmentation: Efficient Learning of Augmentation Policy Schedules](https://arxiv.org/abs/1905.05393)
