@@ -210,6 +210,7 @@
 - [Markov Logic Networks](https://homes.cs.washington.edu/~pedrod/papers/mlj05.pdf)
 - [Capsule Networks](https://arxiv.org/abs/1710.09829)
 - [Stacked Capsule Autoencoders](https://arxiv.org/abs/1906.06818)
+- [Geometric deep learning: going beyond Euclidean data](https://arxiv.org/abs/1611.08097)
 - [Composing graphical models with neural networks for structured representations and fast inference](https://arxiv.org/abs/1603.06277)
 - [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)
 - [Invertible Residual Networks](https://arxiv.org/abs/1811.00995)
