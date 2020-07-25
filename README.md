@@ -33,6 +33,7 @@
 - [Super SloMo](https://arxiv.org/abs/1712.00080)
 - [Soccer on Your Tabletop](https://arxiv.org/abs/1806.00890)
 - [FaceNet](https://arxiv.org/abs/1503.03832)
+- [Beyond triplet loss: a deep quadruplet network for person re-identification (quadruplet loss)](https://arxiv.org/abs/1704.01719)
 - [LayoutNet](https://arxiv.org/abs/1803.08999)
 - [DeepPerimeter](https://arxiv.org/abs/1904.11595)
 - [StyleGAN](https://arxiv.org/abs/1812.04948)
