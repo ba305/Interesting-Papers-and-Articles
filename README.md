@@ -213,6 +213,7 @@
 - [Capsule Networks](https://arxiv.org/abs/1710.09829)
 - [Stacked Capsule Autoencoders](https://arxiv.org/abs/1906.06818)
 - [Geometric deep learning: going beyond Euclidean data](https://arxiv.org/abs/1611.08097)
+- [A GitHub repo of deep learning papers](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 - [Composing graphical models with neural networks for structured representations and fast inference](https://arxiv.org/abs/1603.06277)
 - [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)
 - [Invertible Residual Networks](https://arxiv.org/abs/1811.00995)
