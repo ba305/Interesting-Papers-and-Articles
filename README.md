@@ -153,6 +153,7 @@
 - [Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/abs/1905.09272)
 - [ImageBERT: Cross-modal Pre-training with Large-scale Weak-supervised Image-Text Data](https://arxiv.org/abs/2001.07966)
 - Image GPT [blog](https://openai.com/blog/image-gpt/) and [paper](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)
+- Unsupervised Learning of Visual Features by Contrasting Cluster Assignments [blog](https://ai.facebook.com/blog/high-performance-self-supervised-image-classification-with-contrastive-clustering/) and [paper](https://arxiv.org/abs/2006.09882)
 
 ## Fairness
 - [Datasheets for Datasets](https://arxiv.org/abs/1803.09010)
