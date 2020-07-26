@@ -106,6 +106,7 @@
 - [A survey on Image Data Augmentation for Deep Learning](https://link.springer.com/article/10.1186/s40537-019-0197-0)
 - [On the Generalization Effects of Linear Transformations in Data Augmentation](https://arxiv.org/abs/2005.00695)
 - [MixUp Data Augmentation](https://arxiv.org/abs/1710.09412)
+- [Manifold Mixup: Better Representations by Interpolating Hidden States](https://arxiv.org/abs/1806.05236)
 - [CutMix Data Augmentation](https://arxiv.org/abs/1905.04899)
 - [Learning to Compose Domain-Specific Transformations for Data Augmentation](https://arxiv.org/abs/1709.01643)
 - [AutoAugment: Learning Augmentation Policies from Data](https://arxiv.org/abs/1805.09501)
