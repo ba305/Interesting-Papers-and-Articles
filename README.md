@@ -95,6 +95,7 @@
 - Targeted dropout [Paper](https://arxiv.org/abs/1905.13678) and [website](https://for.ai/blog/targeted-dropout/)
 - [Quantization](https://arxiv.org/abs/1907.05686)
 - [Mixed Precision Training](https://arxiv.org/abs/1710.03740)
+- [High-Accuracy Low-Precision Training](https://arxiv.org/abs/1803.03383)
 - [Gate decorators for model pruning](https://arxiv.org/abs/1909.08174)
 - [ZeRO-2 & DeepSpeed: Shattering barriers of deep learning speed & scale](https://www.microsoft.com/en-us/research/blog/zero-2-deepspeed-shattering-barriers-of-deep-learning-speed-scale/)
 - [All you need is a good init (LSUV)](https://arxiv.org/abs/1511.06422)
