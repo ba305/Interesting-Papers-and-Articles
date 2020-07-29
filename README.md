@@ -189,6 +189,7 @@
 - [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155)
 - [When Does Label Smoothing Help?](https://arxiv.org/abs/1906.02629v2)
 - [Machine Learning on Graphs: A Model and Comprehensive Taxonomy](https://arxiv.org/abs/2005.03675)
+- [Understanding Neural Networks Through Deep Visualization](https://arxiv.org/abs/1506.06579)
 - [Federated Learning](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
 - [Generative Models for Effective ML on Private, Decentralized Datasets](https://iclr.cc/virtual_2020/poster_SJgaRA4FPH.html)
 - [Self-Attention Generative Adversarial Networks](https://arxiv.org/abs/1805.08318)
