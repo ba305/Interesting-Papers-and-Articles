@@ -59,6 +59,7 @@
 - [GPT-2](https://openai.com/blog/better-language-models/) and [GPT-3](https://arxiv.org/abs/2005.14165)
 - [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](http://jalammar.github.io/illustrated-bert/)
 - [List of important NLP papers](https://github.com/mihail911/nlp-library)
+- [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860)
 - [XLNet](https://arxiv.org/abs/1906.08237)
 - [ERNIE 2.0](https://arxiv.org/abs/1907.12412)
 - [RoBERTa](https://arxiv.org/abs/1907.11692)
