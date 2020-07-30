@@ -67,6 +67,7 @@
 - [Towards a Human-like Open-Domain Chatbot](https://arxiv.org/abs/2001.09977)
 - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683)
 - [The Evolved Transformer](https://arxiv.org/abs/1901.11117)
+- [Single Headed Attention RNN: Stop Thinking With Your Head](https://arxiv.org/abs/1911.11423)
 
 
 ## Model training (deep learning)
