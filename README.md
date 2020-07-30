@@ -48,6 +48,8 @@
 - [Word2Vec](https://arxiv.org/abs/1301.3781)
 - [GloVe](https://nlp.stanford.edu/pubs/glove.pdf)
 - [BLEU: a Method for Automatic Evaluation of Machine Translation](https://www.aclweb.org/anthology/P02-1040.pdf)
+- [LSTMs](https://www.bioinf.jku.at/publications/older/2604.pdf)
+- [GRUs: Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078)
 - [(Attention): Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
 - [Transformers](https://arxiv.org/abs/1706.03762)
 - BERT [article](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) and [paper](https://arxiv.org/abs/1810.04805)
