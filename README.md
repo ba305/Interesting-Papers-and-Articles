@@ -64,6 +64,7 @@
 - [ERNIE 2.0](https://arxiv.org/abs/1907.12412)
 - [RoBERTa](https://arxiv.org/abs/1907.11692)
 - [DistilBERT](https://medium.com/huggingface/distilbert-8cf3380435b5)
+- [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942)
 - [Imitation Attacks and Defenses for Black-box Machine Translation Systems](https://www.ericswallace.com/imitation)
 - [WT5?! Training Text-to-Text Models to Explain their Predictions](https://arxiv.org/abs/2004.14546)
 - [ICLR 2020 Papers, curated by HuggingFace](https://docs.google.com/document/d/17pnPvWglcerkjFLOn-3Y1lB4MQMO-eVlPXjJUKl8XDw/mobilebasic)
