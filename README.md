@@ -240,6 +240,7 @@
 - [Invertible Residual Networks](https://arxiv.org/abs/1811.00995)
 - [Avoiding pathologies in very deep networks](https://arxiv.org/abs/1402.5836)
 - [Pointer Networks](https://arxiv.org/abs/1506.03134)
+- [Weight Agnostic Neural Networks](https://arxiv.org/abs/1906.04358)
 
 ## Reinforcement Learning
 - [AlphaStar](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
