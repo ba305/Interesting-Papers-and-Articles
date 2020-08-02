@@ -229,6 +229,8 @@
 - [Markov Logic Networks](https://homes.cs.washington.edu/~pedrod/papers/mlj05.pdf)
 - [Capsule Networks](https://arxiv.org/abs/1710.09829)
 - [Stacked Capsule Autoencoders](https://arxiv.org/abs/1906.06818)
+- [Collection of papers on graph neural networks](https://github.com/thunlp/GNNPapers)
+- [Meta-Learning Requires Meta-Augmentation](https://arxiv.org/abs/2007.05549)
 - [Geometric deep learning: going beyond Euclidean data](https://arxiv.org/abs/1611.08097)
 - [A GitHub repo of deep learning papers](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 - [Composing graphical models with neural networks for structured representations and fast inference](https://arxiv.org/abs/1603.06277)
