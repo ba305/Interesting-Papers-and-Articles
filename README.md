@@ -146,7 +146,6 @@
 - [FixMatch](https://arxiv.org/abs/2001.07685)
 - [Snorkel: Rapid Training Data Creation with Weak Supervision](https://arxiv.org/abs/1711.10160)
 - [Fast and Three-rious: Speeding Up Weak Supervision with Triplet Methods](https://arxiv.org/abs/2002.11955)
-- [Learning to Compose Domain-Specific Transformations for Data Augmentation](https://arxiv.org/abs/1709.01643)
 - [Unsupervised Data Augmentation](https://arxiv.org/abs/1904.12848)
 - [Revisiting Self-Supervised Visual Representation Learning](https://arxiv.org/abs/1901.09005)
 - [Exploring the Limits of Weakly Supervised Pretraining](https://arxiv.org/abs/1805.00932)
