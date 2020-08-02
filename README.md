@@ -217,6 +217,7 @@
 - [The Reversible Residual Network: Backpropagation Without Storing Activations](https://arxiv.org/abs/1707.04585)
 - [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
 - [Rigging the Lottery: Making All Tickets Winners](https://arxiv.org/abs/1911.11134)
+- [Learning to learn by gradient descent by gradient descent](https://arxiv.org/abs/1606.04474)
 - Block-Sparse GPU Kernels [blog](https://openai.com/blog/block-sparse-gpu-kernels/) and [paper](https://cdn.openai.com/blocksparse/blocksparsepaper.pdf)
 
 ## Other
