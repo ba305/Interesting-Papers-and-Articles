@@ -243,6 +243,7 @@
 - [Avoiding pathologies in very deep networks](https://arxiv.org/abs/1402.5836)
 - [Pointer Networks](https://arxiv.org/abs/1506.03134)
 - [Weight Agnostic Neural Networks](https://arxiv.org/abs/1906.04358)
+- [Billion-scale similarity search with GPUs (FAISS)](https://arxiv.org/abs/1702.08734)
 
 ## Reinforcement Learning
 - [AlphaStar](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
