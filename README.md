@@ -66,6 +66,7 @@
 - [DistilBERT](https://medium.com/huggingface/distilbert-8cf3380435b5)
 - [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942)
 - [SpanBERT: Improving Pre-training by Representing and Predicting Spans](https://arxiv.org/abs/1907.10529)
+- [What Does BERT Look At? An Analysis of BERT's Attention](https://arxiv.org/abs/1906.04341)
 - [Imitation Attacks and Defenses for Black-box Machine Translation Systems](https://www.ericswallace.com/imitation)
 - [WT5?! Training Text-to-Text Models to Explain their Predictions](https://arxiv.org/abs/2004.14546)
 - [ICLR 2020 Papers, curated by HuggingFace](https://docs.google.com/document/d/17pnPvWglcerkjFLOn-3Y1lB4MQMO-eVlPXjJUKl8XDw/mobilebasic)
