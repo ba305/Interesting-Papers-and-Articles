@@ -223,6 +223,7 @@
 - [Rigging the Lottery: Making All Tickets Winners](https://arxiv.org/abs/1911.11134)
 - [Learning to learn by gradient descent by gradient descent](https://arxiv.org/abs/1606.04474)
 - Block-Sparse GPU Kernels [blog](https://openai.com/blog/block-sparse-gpu-kernels/) and [paper](https://cdn.openai.com/blocksparse/blocksparsepaper.pdf)
+- [Understanding Black-box Predictions via Influence Functions](https://arxiv.org/abs/1703.04730)
 
 ## Other
 - [A Metric Learning Reality Check](https://arxiv.org/abs/2003.08505)
