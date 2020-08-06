@@ -46,6 +46,7 @@
 - [Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet](https://arxiv.org/abs/1904.00760)
 - [pySLAM](https://github.com/luigifreda/pyslam)
 - [The Origins and Prevalence of Texture Bias in Convolutional Neural Networks](https://arxiv.org/abs/1911.09071)
+- [Image GPT: Generative Pretraining from Pixels](https://openai.com/blog/image-gpt/)
 
 ## NLP
 - [Word2Vec](https://arxiv.org/abs/1301.3781)
@@ -172,6 +173,7 @@
 - [SCAN: Learning to Classify Images without Labels](https://arxiv.org/abs/2005.12320)
 - [Self-labelling via simultaneous clustering and representation learning](https://arxiv.org/abs/1911.05371)
 - [S4L: Self-Supervised Semi-Supervised Learning](https://arxiv.org/abs/1905.03670)
+- [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
 - [Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/abs/1905.09272)
 - [ImageBERT: Cross-modal Pre-training with Large-scale Weak-supervised Image-Text Data](https://arxiv.org/abs/2001.07966)
 - Image GPT [blog](https://openai.com/blog/image-gpt/) and [paper](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)
