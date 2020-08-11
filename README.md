@@ -77,7 +77,7 @@
 - [The State and Fate of Linguistic Diversity and Inclusion in the NLP World](https://arxiv.org/abs/2004.09095)
 - [Adversarial NLI: A New Benchmark for Natural Language Understanding](https://arxiv.org/abs/1910.14599)
 - [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks](https://arxiv.org/abs/1901.11196)
-- [Towards a Human-like Open-Domain Chatbot](https://arxiv.org/abs/2001.09977)
+- [Towards a Human-like Open-Domain Chatbot (Meena)](https://arxiv.org/abs/2001.09977)
 - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683)
 - [The Evolved Transformer](https://arxiv.org/abs/1901.11117)
 - [Decoding methods for language generation with Transformers (article)](https://huggingface.co/blog/how-to-generate)
