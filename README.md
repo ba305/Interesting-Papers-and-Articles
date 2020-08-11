@@ -47,6 +47,7 @@
 - [pySLAM](https://github.com/luigifreda/pyslam)
 - [The Origins and Prevalence of Texture Bias in Convolutional Neural Networks](https://arxiv.org/abs/1911.09071)
 - [Image GPT: Generative Pretraining from Pixels](https://openai.com/blog/image-gpt/)
+- NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections (NeRF-W) [paper](https://arxiv.org/abs/2008.02268) and [examples](https://nerf-w.github.io/)
 
 ## NLP
 - [Word2Vec](https://arxiv.org/abs/1301.3781)
