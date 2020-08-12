@@ -214,6 +214,7 @@
 - [Self-Attention Generative Adversarial Networks](https://arxiv.org/abs/1805.08318)
 - [Self-Normalizing Neural Networks](https://arxiv.org/abs/1706.02515)
 - [Graph Networks](https://arxiv.org/abs/1806.01261)
+- [Relational Graph Convolutional Networks](https://arxiv.org/abs/1703.06103)
 - [Learning From Brains How to Regularize Machines](https://arxiv.org/abs/1911.05072)
 - [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784)
 - [Understanding intermediate layers using linear classifier probes](https://arxiv.org/abs/1610.01644)
