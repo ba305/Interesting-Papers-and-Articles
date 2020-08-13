@@ -60,6 +60,7 @@
 - BERT [article](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) and [paper](https://arxiv.org/abs/1810.04805)
 - [ULMFiT](https://arxiv.org/abs/1801.06146)
 - [GPT-2](https://openai.com/blog/better-language-models/) and [GPT-3](https://arxiv.org/abs/2005.14165)
+- [Turing-NLG](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/)
 - [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](http://jalammar.github.io/illustrated-bert/)
 - [List of important NLP papers](https://github.com/mihail911/nlp-library)
 - [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860)
