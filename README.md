@@ -57,6 +57,7 @@
 - [(Attention): Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
 - [Transformers](https://arxiv.org/abs/1706.03762)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- [ELMo: Deep contextualized word representations](https://arxiv.org/abs/1802.05365)
 - BERT [article](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) and [paper](https://arxiv.org/abs/1810.04805)
 - [ULMFiT](https://arxiv.org/abs/1801.06146)
 - [GPT-2](https://openai.com/blog/better-language-models/) and [GPT-3](https://arxiv.org/abs/2005.14165)
