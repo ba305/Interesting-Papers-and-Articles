@@ -67,6 +67,7 @@
 - [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860)
 - [XLNet](https://arxiv.org/abs/1906.08237)
 - [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150)
+- [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062)
 - [ERNIE 2.0](https://arxiv.org/abs/1907.12412)
 - [RoBERTa](https://arxiv.org/abs/1907.11692)
 - [DistilBERT](https://medium.com/huggingface/distilbert-8cf3380435b5)
