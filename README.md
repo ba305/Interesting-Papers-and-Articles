@@ -118,6 +118,7 @@
 - [GroupNorm](https://arxiv.org/abs/1803.08494)
 - [Dropout](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
 - Targeted dropout [Paper](https://arxiv.org/abs/1905.13678) and [website](https://for.ai/blog/targeted-dropout/)
+- [DropConnect](http://yann.lecun.com/exdb/publis/pdf/wan-icml-13.pdf)
 - [Quantization](https://arxiv.org/abs/1907.05686)
 - [Mixed Precision Training](https://arxiv.org/abs/1710.03740)
 - [High-Accuracy Low-Precision Training](https://arxiv.org/abs/1803.03383)
