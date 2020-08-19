@@ -86,6 +86,7 @@
 - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683)
 - [The Evolved Transformer](https://arxiv.org/abs/1901.11117)
 - [Decoding methods for language generation with Transformers (article)](https://huggingface.co/blog/how-to-generate)
+- [AWD-LSTM: Regularizing and Optimizing LSTM Language Models](https://arxiv.org/abs/1708.02182)
 - [Single Headed Attention RNN: Stop Thinking With Your Head](https://arxiv.org/abs/1911.11423)
 - Generating Long Sequences with Sparse Transformers [paper](https://arxiv.org/abs/1904.10509) and [article](https://openai.com/blog/sparse-transformer/)
 - [A Survey of Long-Term Context in Transformers (article)](https://www.pragmatic.ml/a-survey-of-methods-for-incorporating-long-term-context/)
