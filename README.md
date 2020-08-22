@@ -72,7 +72,7 @@
 - [ERNIE 2.0](https://arxiv.org/abs/1907.12412)
 - [RoBERTa](https://arxiv.org/abs/1907.11692)
 - [DistilBERT](https://medium.com/huggingface/distilbert-8cf3380435b5)
-- [TinyBERT[(https://arxiv.org/abs/1909.10351)
+- [TinyBERT](https://arxiv.org/abs/1909.10351)
 - [Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT](https://arxiv.org/abs/1909.05840)
 - [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942)
 - [SpanBERT: Improving Pre-training by Representing and Predicting Spans](https://arxiv.org/abs/1907.10529)
