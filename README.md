@@ -72,6 +72,8 @@
 - [ERNIE 2.0](https://arxiv.org/abs/1907.12412)
 - [RoBERTa](https://arxiv.org/abs/1907.11692)
 - [DistilBERT](https://medium.com/huggingface/distilbert-8cf3380435b5)
+- [TinyBERT[(https://arxiv.org/abs/1909.10351)
+- [Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT](https://arxiv.org/abs/1909.05840)
 - [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942)
 - [SpanBERT: Improving Pre-training by Representing and Predicting Spans](https://arxiv.org/abs/1907.10529)
 - [What Does BERT Look At? An Analysis of BERT's Attention](https://arxiv.org/abs/1906.04341)
@@ -145,6 +147,7 @@
 - [Averaging Weights Leads to Wider Optima and Better Generalization](https://arxiv.org/abs/1803.05407)
 - [Revisiting Small Batch Training for Deep Neural Networks](https://arxiv.org/abs/1804.07612)
 - [Supervised Contrastive Learning](https://arxiv.org/abs/2004.11362)
+- [NVIDIA TensorRT for inference](https://developer.nvidia.com/tensorrt)
 
 ## "AutoML"-ish ideas
 - Fast AI thoughts on AutoML [part 1](https://www.fast.ai/2018/07/12/auto-ml-1/), [part 2](https://www.fast.ai/2018/07/16/auto-ml2/), [part 3](https://www.fast.ai/2018/07/23/auto-ml-3/)
