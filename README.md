@@ -263,6 +263,14 @@
 - [Weight Agnostic Neural Networks](https://arxiv.org/abs/1906.04358)
 - [Billion-scale similarity search with GPUs (FAISS)](https://arxiv.org/abs/1702.08734)
 
+## Hyperparameter Optimization
+-  Population Based Training of Neural Networks [post](https://deepmind.com/blog/article/population-based-training-neural-networks) and [paper](https://arxiv.org/abs/1711.09846)
+- [Practical Bayesian Optimization of MachineLearning Algorithms](http://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf)
+- [GitHub BayesianOptimization](https://github.com/fmfn/BayesianOptimization)
+- [ASHA: A System for Massively Parallel Hyperparameter Tuning](https://arxiv.org/abs/1810.05934)
+- hyperopt [GitHub](https://github.com/hyperopt/hyperopt) and [paper](http://proceedings.mlr.press/v28/bergstra13.pdf)
+- [Ray (Tune)](https://docs.ray.io/en/latest/tune/index.html)
+
 ## Reinforcement Learning
 - [AlphaStar](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
 - [Sutton](http://incompleteideas.net/book/RLbook2018.pdf)
