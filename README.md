@@ -56,7 +56,7 @@
 - [BLEU: a Method for Automatic Evaluation of Machine Translation](https://www.aclweb.org/anthology/P02-1040.pdf)
 - [Tokenizers](https://blog.floydhub.com/tokenization-nlp/)
 - [(Attention): Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
-- [Transformers](https://arxiv.org/abs/1706.03762)
+- [Attention is all you need](https://arxiv.org/abs/1706.03762)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [ELMo: Deep contextualized word representations](https://arxiv.org/abs/1802.05365)
 - BERT [article](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) and [paper](https://arxiv.org/abs/1810.04805)
