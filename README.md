@@ -87,7 +87,7 @@
 - [Adversarial NLI: A New Benchmark for Natural Language Understanding](https://arxiv.org/abs/1910.14599)
 - [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks](https://arxiv.org/abs/1901.11196)
 - [Towards a Human-like Open-Domain Chatbot (Meena)](https://arxiv.org/abs/2001.09977)
-- Recipes for building an open-domain chatbot (a state-of-the-art open source chatbot)[post](https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot/) and [paper](https://arxiv.org/abs/2004.13637)
+- Recipes for building an open-domain chatbot (a state-of-the-art open source chatbot) [post](https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot/) and [paper](https://arxiv.org/abs/2004.13637)
 - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683)
 - [The Evolved Transformer](https://arxiv.org/abs/1901.11117)
 - [Decoding methods for language generation with Transformers (article)](https://huggingface.co/blog/how-to-generate)
