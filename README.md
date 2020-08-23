@@ -95,6 +95,7 @@
 - Generating Long Sequences with Sparse Transformers [paper](https://arxiv.org/abs/1904.10509) and [article](https://openai.com/blog/sparse-transformer/)
 - [A Survey of Long-Term Context in Transformers (article)](https://www.pragmatic.ml/a-survey-of-methods-for-incorporating-long-term-context/)
 - [On Difficulties of Cross-Lingual Transfer with Order Differences: A Case Study on Dependency Parsing](https://www.aclweb.org/anthology/N19-1253.pdf)
+- [Google's Language Interpretability Tool (LIT)](https://github.com/pair-code/lit)
 
 
 ## Model training (deep learning)
