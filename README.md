@@ -12,17 +12,6 @@
 - [GRUs: Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078)
 - [GANs](https://arxiv.org/abs/1406.2661)
 
-## Object detection / semantic segmentation
-- [Faster R-CNN](https://arxiv.org/abs/1506.01497)
-- [YOLO](https://arxiv.org/abs/1506.02640), [YOLOv2](https://arxiv.org/abs/1612.08242), [YOLOv3](https://arxiv.org/abs/1804.02767)
-- [YOLOv4](https://arxiv.org/abs/2004.10934)
-- [Feature Pyramid Networks](https://arxiv.org/abs/1612.03144)
-- [RetinaNet](https://arxiv.org/abs/1708.02002)
-- [U-Net](https://arxiv.org/abs/1505.04597)
-- [Fully Convolutional Networks](https://arxiv.org/abs/1411.4038)
-- [DeepLabv3](https://arxiv.org/abs/1706.05587)
-- [Mask R-CNN](https://arxiv.org/abs/1703.06870)
-
 ## NLP
 - [Word2Vec](https://arxiv.org/abs/1301.3781)
 - [GloVe](https://nlp.stanford.edu/pubs/glove.pdf)
@@ -123,6 +112,17 @@
 - [Revisiting Small Batch Training for Deep Neural Networks](https://arxiv.org/abs/1804.07612)
 - [Supervised Contrastive Learning](https://arxiv.org/abs/2004.11362)
 - [NVIDIA TensorRT for inference](https://developer.nvidia.com/tensorrt)
+
+## Object detection / semantic segmentation
+- [Faster R-CNN](https://arxiv.org/abs/1506.01497)
+- [YOLO](https://arxiv.org/abs/1506.02640), [YOLOv2](https://arxiv.org/abs/1612.08242), [YOLOv3](https://arxiv.org/abs/1804.02767)
+- [YOLOv4](https://arxiv.org/abs/2004.10934)
+- [Feature Pyramid Networks](https://arxiv.org/abs/1612.03144)
+- [RetinaNet](https://arxiv.org/abs/1708.02002)
+- [U-Net](https://arxiv.org/abs/1505.04597)
+- [Fully Convolutional Networks](https://arxiv.org/abs/1411.4038)
+- [DeepLabv3](https://arxiv.org/abs/1706.05587)
+- [Mask R-CNN](https://arxiv.org/abs/1703.06870)
 
 ## Special topics in CV
 - [OpenPose](https://arxiv.org/abs/1812.08008)
