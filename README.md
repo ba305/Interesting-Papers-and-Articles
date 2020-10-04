@@ -193,6 +193,21 @@
 - Image GPT [blog](https://openai.com/blog/image-gpt/) and [paper](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)
 - Unsupervised Learning of Visual Features by Contrasting Cluster Assignments [blog](https://ai.facebook.com/blog/high-performance-self-supervised-image-classification-with-contrastive-clustering/) and [paper](https://arxiv.org/abs/2006.09882)
 
+## "TinyML" etc.
+- [Why the Future of Machine Learning is Tiny (Pete Warden)](https://petewarden.com/2018/06/11/why-the-future-of-machine-learning-is-tiny/)
+- [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
+- [PyTorch mixed-precision training](https://pytorch.org/blog/accelerating-training-on-nvidia-gpus-with-pytorch-automatic-mixed-precision/)
+- [PyTorch quantization](https://pytorch.org/docs/stable/quantization.html)
+- [TF Lite](https://www.tensorflow.org/lite) and [TF Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers)
+- [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
+- [Rigging the Lottery: Making All Tickets Winners](https://arxiv.org/abs/1911.11134)
+- [Bonsai: Resource-efficient Machine Learning in 2 KB RAM for the Internet of Things](http://proceedings.mlr.press/v70/kumar17a.html)
+- [A Cascade Architecture for Keyword Spotting on Mobile Devices](https://arxiv.org/abs/1712.03603)
+- [NetAdapt: Platform-Aware Neural Network Adaptation for Mobile Applications](https://arxiv.org/abs/1804.03230)
+- [TinyLSTMs: Efficient Neural Speech Enhancement for Hearing Aids](https://arxiv.org/pdf/2005.11138.pdf)
+- [MCUNet: Tiny Deep Learning on IoT Devices](https://arxiv.org/pdf/2007.10319.pdf)
+- Block-Sparse GPU Kernels [blog](https://openai.com/blog/block-sparse-gpu-kernels/) and [paper](https://cdn.openai.com/blocksparse/blocksparsepaper.pdf)
+
 ## Fairness
 - [Datasheets for Datasets](https://arxiv.org/abs/1803.09010)
 - [Gender shades: Intersectional accuracy disparities in commercial gender classification](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
@@ -208,7 +223,6 @@
 - [Robustness May Be at Odds with Accuracy](https://arxiv.org/abs/1805.12152)
 
 ## Other interesting techniques
-- [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
 - [Curriculum Learning](https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf)
 - [Visualizing CNNs](https://arxiv.org/abs/1311.2901)
 - [Grad-CAM](https://arxiv.org/abs/1610.02391)
@@ -240,10 +254,7 @@
 - [Auto-Encoding Variational Bayes (variational autoencoders)](https://arxiv.org/abs/1312.6114)
 - [beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/forum?id=Sy2fzU9gl)
 - [The Reversible Residual Network: Backpropagation Without Storing Activations](https://arxiv.org/abs/1707.04585)
-- [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
-- [Rigging the Lottery: Making All Tickets Winners](https://arxiv.org/abs/1911.11134)
 - [Learning to learn by gradient descent by gradient descent](https://arxiv.org/abs/1606.04474)
-- Block-Sparse GPU Kernels [blog](https://openai.com/blog/block-sparse-gpu-kernels/) and [paper](https://cdn.openai.com/blocksparse/blocksparsepaper.pdf)
 - [Understanding Black-box Predictions via Influence Functions](https://arxiv.org/abs/1703.04730)
 
 ## Other
