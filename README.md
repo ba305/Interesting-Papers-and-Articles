@@ -150,6 +150,7 @@
 - [Image GPT: Generative Pretraining from Pixels](https://openai.com/blog/image-gpt/)
 - [DETR: End-to-end Object Detection with Transformers](https://ai.facebook.com/research/publications/end-to-end-object-detection-with-transformers/)
 - NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections (NeRF-W) [paper](https://arxiv.org/abs/2008.02268) and [examples](https://nerf-w.github.io/)
+- [VIVO: Surpassing Human Performance in Novel Object Captioning with Visual Vocabulary Pre-Training](https://arxiv.org/abs/2009.13682)
 
 ## "AutoML"-ish ideas
 - Fast AI thoughts on AutoML [part 1](https://www.fast.ai/2018/07/12/auto-ml-1/), [part 2](https://www.fast.ai/2018/07/16/auto-ml2/), [part 3](https://www.fast.ai/2018/07/23/auto-ml-3/)
