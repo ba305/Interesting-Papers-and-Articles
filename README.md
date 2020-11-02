@@ -207,6 +207,9 @@
 - [NetAdapt: Platform-Aware Neural Network Adaptation for Mobile Applications](https://arxiv.org/abs/1804.03230)
 - [TinyLSTMs: Efficient Neural Speech Enhancement for Hearing Aids](https://arxiv.org/pdf/2005.11138.pdf)
 - [MCUNet: Tiny Deep Learning on IoT Devices](https://arxiv.org/pdf/2007.10319.pdf)
+- [Characterizing and Mitigating Bias in Compact Models](http://whi2020.online/static/pdfs/paper_73.pdf)
+- [What Do Compressed Deep Neural Networks Forget?](https://arxiv.org/abs/1911.05248)
+- [The State of Sparsity in Deep Neural Networks](https://arxiv.org/abs/1902.09574)
 - Block-Sparse GPU Kernels [blog](https://openai.com/blog/block-sparse-gpu-kernels/) and [paper](https://cdn.openai.com/blocksparse/blocksparsepaper.pdf)
 
 ## Fairness
@@ -279,6 +282,7 @@
 - [Pointer Networks](https://arxiv.org/abs/1506.03134)
 - [Weight Agnostic Neural Networks](https://arxiv.org/abs/1906.04358)
 - [Billion-scale similarity search with GPUs (FAISS)](https://arxiv.org/abs/1702.08734)
+- [The Hardware Lottery](https://arxiv.org/abs/2009.06489)
 
 ## Hyperparameter Optimization
 -  Population Based Training of Neural Networks [post](https://deepmind.com/blog/article/population-based-training-neural-networks) and [paper](https://arxiv.org/abs/1711.09846)
