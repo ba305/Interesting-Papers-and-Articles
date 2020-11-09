@@ -194,7 +194,7 @@
 - Image GPT [blog](https://openai.com/blog/image-gpt/) and [paper](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)
 - Unsupervised Learning of Visual Features by Contrasting Cluster Assignments [blog](https://ai.facebook.com/blog/high-performance-self-supervised-image-classification-with-contrastive-clustering/) and [paper](https://arxiv.org/abs/2006.09882)
 
-## "TinyML" etc.
+## "TinyML" / efficiency etc.
 - [Why the Future of Machine Learning is Tiny (Pete Warden)](https://petewarden.com/2018/06/11/why-the-future-of-machine-learning-is-tiny/)
 - [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
 - [PyTorch mixed-precision training](https://pytorch.org/blog/accelerating-training-on-nvidia-gpus-with-pytorch-automatic-mixed-precision/)
@@ -210,6 +210,7 @@
 - [Characterizing and Mitigating Bias in Compact Models](http://whi2020.online/static/pdfs/paper_73.pdf)
 - [What Do Compressed Deep Neural Networks Forget?](https://arxiv.org/abs/1911.05248)
 - [The State of Sparsity in Deep Neural Networks](https://arxiv.org/abs/1902.09574)
+- [Fast Algorithms for Convolutional Neural Networks (Winograd convolutions)](https://arxiv.org/abs/1509.09308)
 - Block-Sparse GPU Kernels [blog](https://openai.com/blog/block-sparse-gpu-kernels/) and [paper](https://cdn.openai.com/blocksparse/blocksparsepaper.pdf)
 
 ## Fairness
