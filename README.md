@@ -292,6 +292,9 @@
 - hyperopt [GitHub](https://github.com/hyperopt/hyperopt) and [paper](http://proceedings.mlr.press/v28/bergstra13.pdf)
 - [Ray (Tune)](https://docs.ray.io/en/latest/tune/index.html)
 
+## Development Process
+- [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://research.google/pubs/pub46555/)
+
 ## Reinforcement Learning
 - [AlphaStar](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
 - [Sutton](http://incompleteideas.net/book/RLbook2018.pdf)
