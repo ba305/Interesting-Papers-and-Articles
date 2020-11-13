@@ -59,6 +59,7 @@
 - [A Survey of Long-Term Context in Transformers (article)](https://www.pragmatic.ml/a-survey-of-methods-for-incorporating-long-term-context/)
 - [On Difficulties of Cross-Lingual Transfer with Order Differences: A Case Study on Dependency Parsing](https://www.aclweb.org/anthology/N19-1253.pdf)
 - [Google's Language Interpretability Tool (LIT)](https://github.com/pair-code/lit)
+- [Beyond Accuracy: Behavioral Testing of NLP models with CheckList](https://arxiv.org/abs/2005.04118)
 
 
 ## Model training (deep learning)
