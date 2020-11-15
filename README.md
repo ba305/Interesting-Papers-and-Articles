@@ -45,6 +45,7 @@
 - [ICLR 2020 Papers, curated by HuggingFace](https://docs.google.com/document/d/17pnPvWglcerkjFLOn-3Y1lB4MQMO-eVlPXjJUKl8XDw/mobilebasic)
 - [The Cost of Training NLP Models: A Concise Overview](https://arxiv.org/abs/2004.08900)
 - Reformer: The Efficient Transformer [blog](https://ai.googleblog.com/2020/01/reformer-efficient-transformer.html) and [paper](https://arxiv.org/abs/2001.04451)
+- [Long Range Arena: A Benchmark for Efficient Transformers](https://arxiv.org/abs/2011.04006)
 - [The State and Fate of Linguistic Diversity and Inclusion in the NLP World](https://arxiv.org/abs/2004.09095)
 - [Adversarial NLI: A New Benchmark for Natural Language Understanding](https://arxiv.org/abs/1910.14599)
 - [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks](https://arxiv.org/abs/1901.11196)
