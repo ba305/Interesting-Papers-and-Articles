@@ -285,6 +285,7 @@
 - [Weight Agnostic Neural Networks](https://arxiv.org/abs/1906.04358)
 - [Billion-scale similarity search with GPUs (FAISS)](https://arxiv.org/abs/1702.08734)
 - [The Hardware Lottery](https://arxiv.org/abs/2009.06489)
+- [Are All Layers Created Equal?](https://arxiv.org/abs/1902.01996)
 
 ## Hyperparameter Optimization
 -  Population Based Training of Neural Networks [post](https://deepmind.com/blog/article/population-based-training-neural-networks) and [paper](https://arxiv.org/abs/1711.09846)
