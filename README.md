@@ -16,6 +16,7 @@
 - [Word2Vec](https://arxiv.org/abs/1301.3781)
 - [GloVe](https://nlp.stanford.edu/pubs/glove.pdf)
 - [BLEU: a Method for Automatic Evaluation of Machine Translation](https://www.aclweb.org/anthology/P02-1040.pdf)
+- [Visualizing and Understanding Recurrent Networks](https://arxiv.org/abs/1506.02078)
 - [Tokenizers](https://blog.floydhub.com/tokenization-nlp/)
 - [(Attention): Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
 - [Attention is all you need](https://arxiv.org/abs/1706.03762)
