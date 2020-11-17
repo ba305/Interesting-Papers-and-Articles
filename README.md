@@ -139,6 +139,8 @@
 - [Polygon-RNN++](http://www.cs.toronto.edu/polyrnn/) and [paper](https://arxiv.org/abs/1803.09693)
 - [Super SloMo](https://arxiv.org/abs/1712.00080)
 - [Soccer on Your Tabletop](https://arxiv.org/abs/1806.00890)
+- [PixelRNN](https://arxiv.org/abs/1601.06759)
+- [PixelCNN](https://arxiv.org/abs/1606.05328)
 - [FaceNet](https://arxiv.org/abs/1503.03832)
 - [Beyond triplet loss: a deep quadruplet network for person re-identification (quadruplet loss)](https://arxiv.org/abs/1704.01719)
 - [LayoutNet](https://arxiv.org/abs/1803.08999)
