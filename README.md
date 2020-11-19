@@ -92,6 +92,7 @@
 - [Dropout](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
 - Targeted dropout [Paper](https://arxiv.org/abs/1905.13678) and [website](https://for.ai/blog/targeted-dropout/)
 - [DropConnect](http://yann.lecun.com/exdb/publis/pdf/wan-icml-13.pdf)
+- [Deep Networks with Stochastic Depth](https://arxiv.org/abs/1603.09382)
 - [Quantization](https://arxiv.org/abs/1907.05686)
 - [Mixed Precision Training](https://arxiv.org/abs/1710.03740)
 - [High-Accuracy Low-Precision Training](https://arxiv.org/abs/1803.03383)
