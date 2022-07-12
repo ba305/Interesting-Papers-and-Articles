@@ -240,6 +240,11 @@
 - [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083)
 - [Robustness May Be at Odds with Accuracy](https://arxiv.org/abs/1805.12152)
 
+## Automatic speech recognition
+- [CTC](https://www.cs.toronto.edu/~graves/icml_2006.pdf)
+- [RNN-T](https://arxiv.org/pdf/1211.3711.pdf)
+- [Conformer](https://arxiv.org/abs/2005.08100)
+
 ## Other interesting techniques
 - [Curriculum Learning](https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf)
 - [Visualizing CNNs](https://arxiv.org/abs/1311.2901)
