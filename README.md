@@ -158,6 +158,7 @@
 - [DETR: End-to-end Object Detection with Transformers](https://ai.facebook.com/research/publications/end-to-end-object-detection-with-transformers/)
 - NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections (NeRF-W) [paper](https://arxiv.org/abs/2008.02268) and [examples](https://nerf-w.github.io/)
 - [VIVO: Surpassing Human Performance in Novel Object Captioning with Visual Vocabulary Pre-Training](https://arxiv.org/abs/2009.13682)
+- [Vision transformers](https://arxiv.org/abs/2010.11929)
 - [DALL-E](https://openai.com/blog/dall-e/) and [DALL-E 2](https://openai.com/dall-e-2/)
 - [Imagen](https://imagen.research.google/)
 - [Parti](https://parti.research.google/)
