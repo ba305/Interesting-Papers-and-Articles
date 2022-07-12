@@ -102,6 +102,8 @@
 - [Fixup Initialization: Residual Learning Without Normalization](https://arxiv.org/abs/1901.09321)
 - [Xavier initialization](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
 - [Kaiming initialization, and PReLU](https://arxiv.org/abs/1502.01852)
+- [GELUs](https://arxiv.org/abs/1606.08415)
+- [SELUs](https://arxiv.org/abs/1706.02515)
 - [Orthogonal initialization](https://arxiv.org/abs/1312.6120)
 - [A survey on Image Data Augmentation for Deep Learning](https://link.springer.com/article/10.1186/s40537-019-0197-0)
 - [On the Generalization Effects of Linear Transformations in Data Augmentation](https://arxiv.org/abs/2005.00695)
