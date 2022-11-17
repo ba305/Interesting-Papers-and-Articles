@@ -303,6 +303,7 @@
 - [Billion-scale similarity search with GPUs (FAISS)](https://arxiv.org/abs/1702.08734)
 - [The Hardware Lottery](https://arxiv.org/abs/2009.06489)
 - [Are All Layers Created Equal?](https://arxiv.org/abs/1902.01996)
+- [Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time](https://arxiv.org/abs/2203.05482)
 
 ## Hyperparameter Optimization
 -  Population Based Training of Neural Networks [post](https://deepmind.com/blog/article/population-based-training-neural-networks) and [paper](https://arxiv.org/abs/1711.09846)
