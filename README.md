@@ -164,6 +164,8 @@
 - [DALL-E](https://openai.com/blog/dall-e/) and [DALL-E 2](https://openai.com/dall-e-2/)
 - [Imagen](https://imagen.research.google/)
 - [Parti](https://parti.research.google/)
+- [LiT](https://arxiv.org/abs/2111.07991)
+- [Flamingo](https://arxiv.org/abs/2204.14198)
 
 ## "AutoML"-ish ideas
 - Fast AI thoughts on AutoML [part 1](https://www.fast.ai/2018/07/12/auto-ml-1/), [part 2](https://www.fast.ai/2018/07/16/auto-ml2/), [part 3](https://www.fast.ai/2018/07/23/auto-ml-3/)
