@@ -119,6 +119,14 @@
 - [Revisiting Small Batch Training for Deep Neural Networks](https://arxiv.org/abs/1804.07612)
 - [Supervised Contrastive Learning](https://arxiv.org/abs/2004.11362)
 - [NVIDIA TensorRT for inference](https://developer.nvidia.com/tensorrt)
+- [Averaging Weights Leads to Wider Optima and Better Generalization](https://arxiv.org/abs/1803.05407)
+
+## Parameter-efficient fine-tuning
+- Note: some of these are covered in Colin Raffel's talk [here](https://www.youtube.com/live/0oGxT_i7nk8)
+- [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
+- [Training Neural Networks with Fixed Sparse Masks](https://arxiv.org/abs/2111.09839)
+- [Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning](https://arxiv.org/abs/2205.05638)
+- [Merging Models with Fisher-Weighted Averaging](https://arxiv.org/abs/2111.09832)
 
 ## Object detection / semantic segmentation
 - [Faster R-CNN](https://arxiv.org/abs/1506.01497)
