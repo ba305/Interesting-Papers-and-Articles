@@ -63,6 +63,7 @@
 - [Google's Language Interpretability Tool (LIT)](https://github.com/pair-code/lit)
 - [Beyond Accuracy: Behavioral Testing of NLP models with CheckList](https://arxiv.org/abs/2005.04118)
 - [Generative Language Modeling for Automated Theorem Proving](https://arxiv.org/abs/2009.03393)
+- [Diffusion-LM](https://arxiv.org/abs/2205.14217)
 
 
 ## Model training (deep learning)
